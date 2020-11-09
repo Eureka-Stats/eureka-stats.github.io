@@ -180,7 +180,8 @@ hr {
   display: block;
   max-width: 100%;
   overflow-x: auto;
-  overflow-y: scroll
+  overflow:scroll;
+  height:500px;
 }
 
 table {
