@@ -8,7 +8,7 @@ tags:   [Business, Work]
 ---
 # AV Damage
 <table class="avdps">
-  {% for row in site.reports.avdamage %}
+  {% for row in site.data.avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
