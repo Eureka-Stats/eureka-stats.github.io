@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Resources 
 permalink: /contact/
 image: '/images/45.jpg'
 ---

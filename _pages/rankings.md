@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Rankings
 permalink: /about/
 image: '/images/60.jpg'
 ---
