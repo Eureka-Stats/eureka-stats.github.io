@@ -49,7 +49,7 @@ $('table.avdps').DataTable({
 	scrollY: 400,
 	responsive: true,
         "createdRow": function( row, data, dataIndex ) {
-             if ( data[1] == "Warrior" ) {        
+             if ( data[0] == "Warrior" ) {        
          $(row).addClass('red');
      
        },
