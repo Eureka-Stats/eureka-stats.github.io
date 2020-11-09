@@ -194,18 +194,23 @@ table {
 }
 
 table th {
-  padding: 12px;
+  //padding: 12px;
   font-size: 16px;
   text-align: left;
   border: 1px solid $dark;
   color: $white;
   background-color: $blue-dark;
+  
+  position:absolute;   
+  top:-20px;
+  z-index:2;
+  height:20px;
+  width:35%;
 }
 
 table tr {
   background-color: $dark;
   transition: all .3s ease;
-  position:absolute; 
   &:nth-child(even) {
     background-color: transparent;
   }
