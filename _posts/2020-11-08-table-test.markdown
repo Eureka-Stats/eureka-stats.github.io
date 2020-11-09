@@ -11,10 +11,17 @@ tags:   [Business, Work]
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
    <thead>
-    <tr>
+   <!-- <tr>
       {% for pair in row %}
         <th class="text">{{ pair[0] }}</th>
       {% endfor %}
+    </tr>
+   -->
+    <tr>
+        <th class="text">Job</th>
+        <th class="text">Name</th>
+        <th class="text">DPS</th>
+        <th class="text">Total Damage</th>
     </tr>
     </thead>
     {% endif %}
