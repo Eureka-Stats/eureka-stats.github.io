@@ -59,6 +59,7 @@ $('table.avdps').DataTable({
 </script>
 
 <script>
+$(document).ready(function() {
     $('table.ozmadps').DataTable( {
         initComplete: function () {
             this.api().columns().every( function () {
@@ -81,4 +82,5 @@ $('table.avdps').DataTable({
             } );
         }
     } );
+} );
 </script>
