@@ -1,0 +1,48 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+
+
+  <!-- Bootstrap core CSS -->
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/dataTables.bootstrap.css" rel="stylesheet">
+
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+  <!-- Ionicons -->
+  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+
+  <!-- DataTables Core -->
+  <link rel="stylesheet" type="text/css" href="/css/jquery.dataTables.min.css" />
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
+
+  <!-- Datatables Responsive Plugin -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css" />
+  <script src="https://cdn.datatables.net/responsive/2.2.6/js/dataTables.responsive.min.js"></script>
+  
+  <!-- Datatables SearchPane -->
+  <link rel="stylesheet" type="text/css" href="/css/searchPanes.dataTables.min.css" />
+  <link rel="stylesheet" type="text/css" href="/css/select.dataTables.min.css" />
+  <link rel="stylesheet" type="text/css" href="/css/buttons.dataTables.min.css" />
+	
+  <script src="https://cdn.datatables.net/searchpanes/1.2.0/js/dataTables.searchPanes.min.js"></script>
+  <script src="https://cdn.datatables.net/select/1.3.1/js/dataTables.select.min.js"></script>
+  <script src="https://cdn.datatables.net/buttons/1.6.4/js/dataTables.buttons.min.js"></script>
+
+  <style>
+  {% capture include_to_scssify %}
+    {% include main.scss %}
+  {% endcapture %}
+  {{ include_to_scssify | scssify }}
+  </style>
+</head>
