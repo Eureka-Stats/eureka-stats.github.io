@@ -26,7 +26,8 @@ tags:   [Business, Work]
 
 <script>
 $('table.display').DataTable({
-	paging: false
+	paging: false,
+	scrollY: 400
 } )
 </script>
 
