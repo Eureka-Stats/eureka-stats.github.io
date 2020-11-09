@@ -8,7 +8,7 @@ tags:   [Business, Work]
 ### AV Damage
 <div class="table-container">
 <table>
-  {% for row in site.data.avdamage %}
+  {% for row in site.data.avdamage | where: "Job", "Warrior" %}
     {% if forloop.first %}
    <thead>
    <tr>
@@ -20,7 +20,7 @@ tags:   [Business, Work]
    </thead>
     {% endif %}
 
-    {% tablerow pair in row | where: "Job", "Warrior"  %}
+    {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
