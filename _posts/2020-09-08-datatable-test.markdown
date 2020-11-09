@@ -6,7 +6,7 @@ image:  ''
 dataTable: true
 tags:   [Business, Work]
 ---
-<table class="display">
+<table class="display table-dark">
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
     <thead>
