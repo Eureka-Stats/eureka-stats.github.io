@@ -8,7 +8,7 @@ tags:   [Business, Work]
 ---
 # AV Damage
 <table class="avdps">
-  {% for row in site.data.avdamage %}
+  {% for row in reports.data.avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
@@ -58,3 +58,18 @@ $('table.avdps').DataTable({
 } )
 </script>
 
+<script>
+$('table.ozmadps').DataTable({
+        paging: false,
+        "order": [[ 3, "desc" ]],
+        scrollY: 400,
+        responsive: true,
+        "columnDefs": [
+            {
+                "targets": [ 3 ],
+                "visible": false,
+                "searchable": false
+            }
+        ]
+} )
+</script>
