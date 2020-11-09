@@ -14,7 +14,7 @@ tags:   [Business, Work]
       {% for pair in row %}
         <th class="text">{{ pair[0] }}</th>
       {% endfor %}
-    </t>
+    </tr>
     </thead>
     {% endif %}
 
