@@ -210,7 +210,7 @@ div.dataTables_scrollHead table.table-bordered {
 
 .table.dataTable tbody tr.active th > a,
 .table.dataTable tbody tr.active td > a {
-	color: white;
+	color: black;
 }
 
 .table-striped.dataTable tbody tr.active:nth-child(odd) td,
