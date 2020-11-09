@@ -200,12 +200,12 @@ table th {
   border: 1px solid $dark;
   color: $white;
   background-color: $blue-dark;
-  position:absolute; 
 }
 
 table tr {
   background-color: $dark;
   transition: all .3s ease;
+  position:absolute; 
   &:nth-child(even) {
     background-color: transparent;
   }
