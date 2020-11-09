@@ -46,13 +46,21 @@ tags:   [Business, Work]
 $('table.avdps').DataTable({
 	paging: false,
 	"order": [[ 3, "desc" ]],
-	scrollY: 400
+	scrollY: 400,
+        "columnDefs": [
+            {
+                "targets": [ 4 ],
+                "visible": false,
+                "searchable": false
+            }
+        ]
 } )
 </script>
 
 <script>
 $('table.ozmadps').DataTable({
-        "order": [[ 3, "desc" ]],
+        paging: false,
+	"order": [[ 3, "desc" ]],
         scrollY: 400
 } )
 </script>
