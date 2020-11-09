@@ -6,6 +6,7 @@ image:  ''
 dataTable: true
 tags:   [Business, Work]
 ---
+# AV Damage
 <table class="avdps">
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
@@ -23,6 +24,23 @@ tags:   [Business, Work]
   {% endfor %}
 </table>
 
+# Ozma Damage
+<table class="ozmadps">
+  {% for row in site.data.ozmadamage %}
+    {% if forloop.first %}
+    <thead>
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    </thead>
+    {% endif %}
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
 
 <script>
 $('table.avdps').DataTable({
@@ -32,3 +50,9 @@ $('table.avdps').DataTable({
 } )
 </script>
 
+<script>
+$('table.ozmadps').DataTable({
+        "order": [[ 3, "desc" ]],
+        scrollY: 400
+} )
+</script>
