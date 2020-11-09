@@ -48,6 +48,11 @@ $('table.avdps').DataTable({
 	"order": [[ 3, "desc" ]],
 	scrollY: 400,
 	responsive: true,
+        "createdRow": function( row, data, dataIndex ) {
+             if ( data[1] == "Warrior" ) {        
+         $(row).addClass('red');
+     
+       },
         "columnDefs": [
             {
                 "targets": [ 3 ],
