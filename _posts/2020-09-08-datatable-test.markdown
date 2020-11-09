@@ -23,9 +23,15 @@ tags:   [Business, Work]
   {% endfor %}
 </table>
 
+
+<script>
+$('table.display').DataTable()
+</script>
+
+<!--
 <script>
 $(document).ready(function () {
 $('table.display').DataTable();
 });
 </script>
-
+-->
