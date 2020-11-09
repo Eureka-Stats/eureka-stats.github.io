@@ -8,7 +8,7 @@ tags:   [Business, Work]
 ### AV Damage
 <div class="table-container">
 <table>
-  {% for row in site.data.avdamage | where: "Job", "Warrior" %}
+  {% for row in site.data.avdamage %}
     {% if forloop.first %}
    <thead>
    <tr>

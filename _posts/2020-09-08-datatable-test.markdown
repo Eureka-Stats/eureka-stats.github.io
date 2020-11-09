@@ -7,7 +7,7 @@ dataTable: true
 tags:   [Business, Work]
 ---
 <table class="display">
-  {% for row in site.data.csvfile %}
+  {% for row in site.data.avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
@@ -23,15 +23,9 @@ tags:   [Business, Work]
   {% endfor %}
 </table>
 
-
-<script>
-$('table.display').DataTable()
-</script>
-
-<!--
 <script>
 $(document).ready(function () {
-$("#my-table > table").DataTable();
+$('table.display').DataTable();
 });
 </script>
--->
+
