@@ -49,7 +49,7 @@ $('table.avdps').DataTable({
 	scrollY: 400,
         "columnDefs": [
             {
-                "targets": [ 4 ],
+                "targets": [ 3 ],
                 "visible": false,
                 "searchable": false
             }
