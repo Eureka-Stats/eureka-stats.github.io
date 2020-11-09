@@ -13,6 +13,8 @@ DePaul IHS
     font-weight: normal;
     font-style: normal;
 }
+
+
 @font-face {
     font-family: 'GibsonBold';
     src: url('/css/fonts/gibson-bold-webfont.eot');

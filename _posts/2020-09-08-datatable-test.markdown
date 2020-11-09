@@ -6,7 +6,7 @@ image:  ''
 dataTable: true
 tags:   [Business, Work]
 ---
-<table class="display table-dark">
+<table class="avdps">
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
     <thead>
@@ -25,16 +25,9 @@ tags:   [Business, Work]
 
 
 <script>
-$('table.display').DataTable({
+$('table.avdps').DataTable({
 	paging: false,
 	scrollY: 400
 } )
 </script>
 
-<!--
-<script>
-$(document).ready(function () {
-$('table.display').DataTable();
-});
-</script>
--->
