@@ -9,11 +9,13 @@ tags:   [Business, Work]
 <table>
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
+   <thead>
     <tr>
       {% for pair in row %}
         <th class="text">{{ pair[0] }}</th>
       {% endfor %}
-    </tr>
+    </t>
+    </thead>
     {% endif %}
 
     {% tablerow pair in row %}
