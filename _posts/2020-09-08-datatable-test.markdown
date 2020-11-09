@@ -25,7 +25,9 @@ tags:   [Business, Work]
 
 
 <script>
-$('table.display').DataTable()
+$('table.display').DataTable({
+	paging: false
+} )
 </script>
 
 <!--
