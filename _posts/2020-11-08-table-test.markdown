@@ -5,6 +5,7 @@ date:   2020-11-08 15:01:35 +0300
 image:  ''
 tags:   [Business, Work]
 ---
+<div class="table-container">
 <table>
   {% for row in site.data.avdamage %}
     {% if forloop.first %}
@@ -20,3 +21,4 @@ tags:   [Business, Work]
     {% endtablerow %}
   {% endfor %}
 </table>
+</div>
