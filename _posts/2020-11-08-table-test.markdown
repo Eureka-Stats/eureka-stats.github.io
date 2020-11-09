@@ -11,7 +11,7 @@ tags:   [Business, Work]
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th class="text">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     {% endif %}
