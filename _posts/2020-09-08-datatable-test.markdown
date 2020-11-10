@@ -51,11 +51,6 @@ $('#avdps').DataTable({
 	"searching": true,
 	responsive: true,
         "info" : false,
-	"columnDefs": [
-    	    { 
-		"title": "My column title", "targets": 0 
-	    }
-  	],
         "columnDefs": [
             {
                 "targets": [ 3 ],
