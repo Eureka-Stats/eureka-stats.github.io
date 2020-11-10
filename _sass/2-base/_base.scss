@@ -199,10 +199,6 @@ table th {
   background-color: $blue-dark;
 }
 
-.table thead th {
-	border-bottom: 2px solid $dark;
-}
-
 table tr {
   background-color: #09080f;
   &:nth-child(even) {
