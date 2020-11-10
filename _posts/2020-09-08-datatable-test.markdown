@@ -3,13 +3,14 @@ layout: post
 title:  Vkd8CX12HRxnMBZL
 date:   2020-09-08 15:01:35 +0300
 image:  ''
-report: Vkd8CX12HRxnMBZL
+permalink: /reports/:title
+category: reports
 dataTable: true
 tags:   [reports]
 ---
 # AV Damage
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
-  {% for row in site.data.[page.report].avdamage %}
+  {% for row in site.data.[page.title].avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
