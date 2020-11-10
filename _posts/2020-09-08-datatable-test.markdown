@@ -25,7 +25,7 @@ tags:   [Business, Work]
 </table>
 
 # Ozma Damage
-<table class="ozmadps">
+<table class="ozmadps table">
   {% for row in site.data.ozmadamage %}
     {% if forloop.first %}
     <thead>
