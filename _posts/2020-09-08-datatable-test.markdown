@@ -8,7 +8,7 @@ dataTable: true
 tags:   [Reports]
 ---
 # AV Damage
-<table id="avdps" class="">
+<table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.{{ page.report }}.avdamage %}
     {% if forloop.first %}
     <thead>
