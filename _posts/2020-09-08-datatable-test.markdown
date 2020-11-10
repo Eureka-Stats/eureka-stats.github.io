@@ -7,7 +7,7 @@ dataTable: true
 tags:   [Business, Work]
 ---
 # AV Damage
-<table class="avdps table table-dark">
+<table id="avdps" class="display nowrap">
   {% for row in site.data.Vkd8CX12HRxnMBZL.avdamage %}
     {% if forloop.first %}
     <thead>
@@ -43,7 +43,7 @@ tags:   [Business, Work]
 </table>
 
 <script>
-$('table.avdps').DataTable({
+$('table.#avdps').DataTable({
 	paging: false,
 	"order": [[ 3, "desc" ]],
 	scrollY: 400,
