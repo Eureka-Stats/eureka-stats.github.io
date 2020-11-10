@@ -85,6 +85,16 @@ defaults:
 include:
   - _pages
 
+# Pages Path
+defaults:
+  - scope:
+      path: '_posts'
+    values:
+      permalink: /reports/:basename
+
+include:
+  - _posts
+
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
