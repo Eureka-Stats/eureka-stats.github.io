@@ -47,7 +47,7 @@ $('#avdps').DataTable({
 	paging: false,
 	"order": [[ 3, "desc" ]],
 	scrollY: 400,
-	"searching": false,
+	"searching": true,
 	responsive: true,
         "columnDefs": [
             {
