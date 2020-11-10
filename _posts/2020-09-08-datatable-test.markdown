@@ -7,7 +7,7 @@ dataTable: true
 tags:   [Business, Work]
 ---
 # AV Damage
-<table id="avdps" class="display nowrap">
+<table id="avdps" class="table table-hover table-striped table-dark ">
   {% for row in site.data.Vkd8CX12HRxnMBZL.avdamage %}
     {% if forloop.first %}
     <thead>
