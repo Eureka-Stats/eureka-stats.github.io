@@ -82,8 +82,15 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
+# Posts Path
+defaults:
+  - scope:
+      path: '_posts'
+    values:
+      permalink: /:tags:title
+
 include:
-  - _pages
+  - _posts
 
 # Tags
 tag_page_dir:         tag
