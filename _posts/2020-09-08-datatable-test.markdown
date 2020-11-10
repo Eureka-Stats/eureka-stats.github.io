@@ -9,7 +9,7 @@ tags:   [Reports]
 ---
 # AV Damage
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
-  {% for row in site.data.[report].avdamage %}
+  {% for row in site.data.[page.report].avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
