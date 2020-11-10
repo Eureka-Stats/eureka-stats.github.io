@@ -185,7 +185,6 @@ hr {
 }
 */
 table {
-  font-size: 12px;
   color: rgba($text-color, .7);
   border-color: $dark;
   border-collapse: collapse;
@@ -200,7 +199,7 @@ table th {
   background-color: $blue-dark;
 }
 table tr {
-  background-color: $dark;
+  background-color: #09080f;
   &:nth-child(even) {
     background-color: transparent;
   }
