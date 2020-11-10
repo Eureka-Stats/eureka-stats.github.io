@@ -4,7 +4,7 @@ title:  DataTable Test
 date:   2020-09-08 15:01:35 +0300
 image:  ''
 dataTable: true
-tags:   [Business, Work]
+tags:   [Reports]
 ---
 # AV Damage
 <table id="avdps" class="table table-sm table-hover table-striped table-dark ">
