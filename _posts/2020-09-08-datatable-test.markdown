@@ -5,7 +5,7 @@ date:   2020-09-08 15:01:35 +0300
 image:  ''
 report: Vkd8CX12HRxnMBZL
 dataTable: true
-tags:   [Reports]
+tags:   [reports]
 ---
 # AV Damage
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
@@ -27,7 +27,7 @@ tags:   [Reports]
 
 # Ozma Damage
 <table class="ozmadps">
-  {% for row in site.data.[page.report].ozmadamage %}
+  {% for row in site.data.[page.report].avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
