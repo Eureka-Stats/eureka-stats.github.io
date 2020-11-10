@@ -11,7 +11,7 @@ tags:   [Business, Work]
   {% for row in site.data.Vkd8CX12HRxnMBZL.avdamage %}
     {% if forloop.first %}
     <thead>
-    <tr class="row1 odd">
+    <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
