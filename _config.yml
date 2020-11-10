@@ -92,8 +92,6 @@ defaults:
     values:
       permalink: /reports/:basename
 
-include:
-  - _posts
 
 # Tags
 tag_page_dir:         tag
