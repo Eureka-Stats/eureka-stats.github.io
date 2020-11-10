@@ -221,6 +221,9 @@ table tr:hover {
   color: $white;
 }
 */
+div div.dataTables_scrollBody {
+  background: none !important;
+}
 .gallery-box {
   margin-bottom: 30px;
   em {
