@@ -43,7 +43,7 @@ tags:   [Business, Work]
 </table>
 
 <script>
-$('table.#avdps').DataTable({
+$('#avdps').DataTable({
 	paging: false,
 	"order": [[ 3, "desc" ]],
 	scrollY: 400,
