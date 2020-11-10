@@ -25,7 +25,7 @@ tags:   [Reports]
 </table>
 
 # Ozma Damage
-<table class="ozmadps table">
+<table class="ozmadps">
   {% for row in site.data.ozmadamage %}
     {% if forloop.first %}
     <thead>
