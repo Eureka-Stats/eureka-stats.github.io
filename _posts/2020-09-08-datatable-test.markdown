@@ -3,7 +3,7 @@ layout: post
 title:  DataTable Test
 date:   2020-09-08 15:01:35 +0300
 image:  ''
-report: "Vkd8CX12HRxnMBZL"
+report: Vkd8CX12HRxnMBZL
 dataTable: true
 tags:   [Reports]
 ---
