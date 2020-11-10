@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  DataTable Test
+title:  Vkd8CX12HRxnMBZL
 date:   2020-09-08 15:01:35 +0300
 image:  ''
 report: Vkd8CX12HRxnMBZL
@@ -27,7 +27,7 @@ tags:   [Reports]
 
 # Ozma Damage
 <table class="ozmadps">
-  {% for row in site.data.ozmadamage %}
+  {% for row in site.data.[page.report].ozmadamage %}
     {% if forloop.first %}
     <thead>
     <tr>
