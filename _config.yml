@@ -86,6 +86,8 @@ defaults:
 include:
   - _pages
 
+permalink: /:categories/:title/
+
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
