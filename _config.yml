@@ -87,10 +87,7 @@ defaults:
   - scope:
       path: '_posts'
     values:
-      permalink: /:tags:title
-
-include:
-  - _posts
+      permalink: /:categories/:title:
 
 # Tags
 tag_page_dir:         tag
