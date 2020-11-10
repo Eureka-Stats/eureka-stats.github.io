@@ -75,15 +75,16 @@ plugins:
 paginate: 8
 paginate_path: "/page/:num"
 
+
 # Pages Path
 defaults:
   - scope:
-      path: '_posts'
+      path: '_pages'
     values:
-      permalink: /reports/:basename
+      permalink: /:basename:output_ext
 
 include:
-  - _posts
+  - _pages
 
 # Tags
 tag_page_dir:         tag
