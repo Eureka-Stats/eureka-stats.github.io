@@ -51,7 +51,7 @@ $('#avdps').DataTable({
 	"searching": true,
 	responsive: true,
         "info" : false,
-        { "data": "grandTotal", 
+        { "data": "DPS", 
                    render: $.fn.dataTable.render.number( ',', '.', 2, '$' ) },
         "columnDefs": [
             {
