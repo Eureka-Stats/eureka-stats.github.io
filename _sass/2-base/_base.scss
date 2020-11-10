@@ -183,17 +183,14 @@ hr {
   overflow-y:scroll;
   height:400px;
 }
-
+*/
 table {
   font-size: 12px;
   color: rgba($text-color, .7);
-  width: 100%;
-  border-width: 1px;
   border-color: $dark;
   border-collapse: collapse;
 }
 
-*/
 table th {
   padding: 12px;
   font-size: 16px;
@@ -202,15 +199,13 @@ table th {
   color: $white;
   background-color: $blue-dark;
 }
-/*
 table tr {
   background-color: $dark;
-  transition: all .3s ease;
   &:nth-child(even) {
     background-color: transparent;
   }
 }
-
+/*
 table td {
   padding: 12px;
   font-size: 14px;
