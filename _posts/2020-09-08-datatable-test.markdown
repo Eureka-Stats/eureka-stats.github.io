@@ -49,7 +49,6 @@ $('#avdps').DataTable({
 	scrollY: 400,
 	"searching": true,
 	responsive: true,
-	"info" : false,
         "columnDefs": [
             {
                 "targets": [ 3 ],
