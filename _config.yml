@@ -83,7 +83,7 @@ defaults:
       permalink: /:basename:output_ext
 
 include:
-  - _posts
+  - _pages_
 
 # Tags
 tag_page_dir:         tag
