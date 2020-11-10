@@ -3,7 +3,6 @@ layout: post
 title:  Vkd8CX12HRxnMBZL
 date:   2020-09-08 15:01:35 +0300
 image:  ''
-permalink: /reports/Vkd8CX12HRxnMBZL
 category: reports
 dataTable: true
 tags:   [reports]
