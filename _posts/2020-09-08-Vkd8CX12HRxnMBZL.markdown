@@ -27,7 +27,7 @@ tags:   [reports]
 
 # Ozma Damage
 <table class="ozmadps">
-  {% for row in site.data.[page.title].avdamage %}
+  {% for row in site.data.[page.title].finals.avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
