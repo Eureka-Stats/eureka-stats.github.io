@@ -51,6 +51,8 @@ $('#avdps').DataTable({
 	"searching": true,
 	responsive: true,
         "info" : false,
+        { "data": "grandTotal", 
+                   render: $.fn.dataTable.render.number( ',', '.', 2, '$' ) },
         "columnDefs": [
             {
                 "targets": [ 3 ],
