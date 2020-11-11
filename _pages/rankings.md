@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Rankings
-permalink: /about/
-image: '/images/60.jpg'
+permalink: /rankings/
+image: '/images/hydatosbg.png'
 ---
 
 {% for post in site.posts %}
