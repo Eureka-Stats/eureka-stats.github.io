@@ -3,6 +3,17 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Jupiter';
+  src: url('/fonts/Jupiter.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Jupiter.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/jupiter-pro-bold_25612-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/jupiter-pro-bold_25612-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Jupiter-Pro-Bold_25612.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Jupiter.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
@@ -56,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $heading-font-family;
+  font-family: 'Jupiter', Fallback, sans-serif;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
