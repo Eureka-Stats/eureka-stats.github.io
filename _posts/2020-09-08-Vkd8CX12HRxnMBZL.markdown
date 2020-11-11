@@ -7,9 +7,6 @@ categories: reports
 dataTable: true
 tags:   [reports]
 ---
-<div class="hero__image">
-      <img class="lazy" data-src="{{site.baseurl}}{{site.hero.image}}" alt="{{site.hero.title}}">
-</img>    </div>
 
 # AV Damage - <img src="/images/whitewulf.jpg">
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
