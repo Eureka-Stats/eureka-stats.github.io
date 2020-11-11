@@ -36,7 +36,7 @@
 #
 ## A sane person would have just learned how to actually work with json objects  
 ## But a sane person also wouldn't still be doing Eureka content
-## So here is a few thousand lines of AWK code duct-taped together to make a webpage
+## So here is a few hundred lines of AWK code duct-taped together to make a webpage
 ## I am sorry in adance to anyone trying to follow this
 
 apikey="31d98d791aa06ce083fdd71939a83cb1"
@@ -64,14 +64,14 @@ else
         echo "Encounters already cleaned. Moving on"
 fi
 
-avkilltime=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Absolute Virtue" { printf $4}')
-ozmakilltime=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Proto Ozma" { printf  $4}')
+avkilltime=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Absolute Virtue" { printf $4}' | head -1)
+ozmakilltime=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Proto Ozma" { printf  $4}' | head -1)
 
-avkilltimerounded=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Absolute Virtue" { printf ( "%3.0f\n", $4 ) }')
-ozmakilltimerounded=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Proto Ozma" { printf ( "%3.0f\n", $4 ) }')
+avkilltimerounded=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Absolute Virtue" { printf ( "%3.0f\n", $4 ) }' | head -1)
+ozmakilltimerounded=$(awk -F, -v OFS="," '{$4=($3-$2)/1000}1' ./reports/$report/fightscleaned.csv |  awk -F , '$1 == "Proto Ozma" { printf ( "%3.0f\n", $4 ) }' | head -1)
 
-avkillband=$(awk -F , '$1 == "Absolute Virtue" {print "start="$2"&end="$3}' ./reports/$report/fightscleaned.csv)
-ozmakillband=$(awk -F , '$1 == "Proto Ozma" {print "start="$2"&end="$3}' ./reports/$report/fightscleaned.csv)
+avkillband=$(awk -F , '$1 == "Absolute Virtue" {print "start="$2"&end="$3}' ./reports/$report/fightscleaned.csv | head -1)
+ozmakillband=$(awk -F , '$1 == "Proto Ozma" {print "start="$2"&end="$3}' ./reports/$report/fightscleaned.csv |head -1)
 
 
 starttime=$(head -1 ./reports/$report/fightscleaned.csv | awk -F,  '{ print $2 }')

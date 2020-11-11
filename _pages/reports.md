@@ -1,5 +1,5 @@
 ---
-layout: posts 
+layout: post 
 title: Reports
 permalink: /reports/
 image: '/images/hydatosbg.png'
