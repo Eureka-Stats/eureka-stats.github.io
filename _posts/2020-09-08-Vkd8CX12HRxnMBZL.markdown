@@ -60,7 +60,7 @@ $('#avdps').DataTable({
 	    {
 		"targets": [ 1 ],
                 "searchable": false,
-	        "data": "download_link",
+	        "data": "Name",
     		"render": function ( data, type, full, meta ) {
       			return '<a href="'+data+'">Download</a>';
     		}
