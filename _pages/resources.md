@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Resources 
-permalink: /contact/
-image: '/images/45.jpg'
+permalink: /resources/
+image: '/images/hydatosbg.png'
 ---
 <div class="form-container">
   {% if site.contact.description %}
