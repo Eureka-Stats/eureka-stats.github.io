@@ -7,8 +7,7 @@ categories: reports
 dataTable: true
 tags:   [reports]
 ---
-# AV Damage
-<img src="/images/whitewulf.jpg">
+# AV Damage - <img src="/images/whitewulf.jpg">
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.[page.title].finals.avdamage %}
     {% if forloop.first %}
