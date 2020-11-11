@@ -61,9 +61,7 @@ $('#avdps').DataTable({
 		"targets": [ 1 ],
                 "searchable": false,
 	        "data": "Name",
-    		"render": function ( data, type, full, meta ) {
-      			return '<a href="'+data+'">fflogs link</a>';
-    		}
+		"render": $.fn.dataTable.render.number( ',', '.', 2, '$' )
 	    }
         ]
 })
