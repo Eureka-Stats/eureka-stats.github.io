@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: posts 
 title: Reports
 permalink: /reports/
 image: '/images/hydatosbg.png'
 ---
-
+# Recent Reports:
 {% for post in site.posts %}
   <article>
     <h4>
