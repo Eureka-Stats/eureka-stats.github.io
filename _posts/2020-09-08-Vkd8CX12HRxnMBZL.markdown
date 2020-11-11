@@ -71,6 +71,7 @@ $('table.ozmadps').DataTable({
             {
                 "targets": [ 3 ],
                 "visible": false,
+		"decimal": ",",
                 "searchable": false
             }
         ]
