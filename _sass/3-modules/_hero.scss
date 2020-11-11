@@ -1,4 +1,14 @@
 /* Hero */
+@font-face {
+  font-family: 'Jupiter';
+  src: url('/fonts/Jupiter.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Jupiter.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/jupiter-pro-bold_25612-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/jupiter-pro-bold_25612-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Jupiter-Pro-Bold_25612.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Jupiter.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 .hero {
   position: relative;
   margin-bottom: 2px;
@@ -62,6 +72,7 @@
 
 .hero__title {
   font-size: 60px;
+  font-family: 'Jupiter';
   margin: 0 0 10px;
   line-height: 1;
   color: $white;
