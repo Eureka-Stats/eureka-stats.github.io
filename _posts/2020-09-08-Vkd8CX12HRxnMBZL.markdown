@@ -2,7 +2,7 @@
 layout: page 
 title:  Vkd8CX12HRxnMBZL
 date:   2020-09-08 15:01:35 +0300
-image:  ''
+image: '/images/hydatosbg.png'
 categories: reports
 dataTable: true
 tags:   [reports]
