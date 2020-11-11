@@ -56,9 +56,13 @@ $('#avdps').DataTable({
                 "targets": [ 3 ],
                 "visible": false,
                 "searchable": false
-            }
+            },
+	    {
+		"targets": [ 1 ],
+                "searchable": false
+	    }
         ]
-} )
+})
 </script>
 
 <script>
