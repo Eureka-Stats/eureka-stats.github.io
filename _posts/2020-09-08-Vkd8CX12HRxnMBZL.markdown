@@ -8,7 +8,7 @@ dataTable: true
 tags:   [reports]
 ---
 # AV Damage
-[](/images/waricon)
+[](/images/logo.png)
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.[page.title].finals.avdamage %}
     {% if forloop.first %}
