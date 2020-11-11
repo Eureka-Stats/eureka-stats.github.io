@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page 
 title: Resources 
 permalink: /resources/
 image: '/images/hydatosbg.png'
