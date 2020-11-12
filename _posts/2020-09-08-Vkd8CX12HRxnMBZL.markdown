@@ -35,10 +35,16 @@ $('#overview').DataTable({
         responsive: true,
         "info" : false,
         "columnDefs": [
-            {
+        	{
+                "targets": [ 2 ],
+                "searchable": false,
+                "data": "FFlogs",
+                "render": function ( data, type, full, meta ) {
+                        return '<a href="https://www.fflogs.com/reports/'+data+'">'+data+'</a>';
+                }
             }
-            }
-        ]
+
+	]
 })
 </script>
 
