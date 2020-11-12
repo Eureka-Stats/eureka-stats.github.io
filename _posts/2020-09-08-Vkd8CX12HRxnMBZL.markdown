@@ -36,7 +36,7 @@ $('#avdps').DataTable({
         "info" : false,
         "columnDefs": [
             {
-                "targets": [ 3 ],
+                "targets": [ 3,4 ],
                 "visible": false,
                 "searchable": false
             }
