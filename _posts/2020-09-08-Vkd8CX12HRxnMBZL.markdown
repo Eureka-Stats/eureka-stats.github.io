@@ -114,7 +114,9 @@ $('#ozmadps').DataTable({
 </script>
 
 <script>
-$("img").error(function(){
-  $(this).hide();
+document.addEventListener("DOMContentLoaded", function(event) {
+   document.querySelectorAll('img').forEach(function(img){
+  	img.onerror = function(){this.style.display='none';};
+   })
 });
 </script>
