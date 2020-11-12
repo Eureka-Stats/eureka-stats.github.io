@@ -35,12 +35,6 @@ $('#avdps').DataTable({
         responsive: true,
         "info" : false,
         "columnDefs": [
-                { "name": "Job",   "targets": 0 },
-                { "name": "DPS",  "targets": 1 },
-                { "name": "Total", "targets": 2 },
-                { "name": "Kill Time",  "targets": 3 },
-                { "name": "Killed",    "targets": 4 },
-	        { "name": "Killed",    "targets": 5 },
 	    {
                 "targets": [ 3,4,5,6 ],
                 "visible": false,
