@@ -42,6 +42,7 @@
 apikey="31d98d791aa06ce083fdd71939a83cb1"
 report=$(tail -1 ingest | awk -F,  '{ print $1 }')
 dc=$(tail -1 ingest | awk -F,  '{ print $2 }')
+reportday=$(date -d $(tail -1 ingest | awk -F,  '{ print $3 }') +%F )
 
 
 mkdir -p ./_data/reports/$report/{finals,trash} &&
