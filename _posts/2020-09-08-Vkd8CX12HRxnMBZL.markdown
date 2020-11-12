@@ -51,7 +51,7 @@ $('#avdps').DataTable({
             {
                 "targets": [ 2 ],
                 "searchable": true,
-		"type": number
+		"type": num
             },
             {
                 "targets": [ 1 ],
