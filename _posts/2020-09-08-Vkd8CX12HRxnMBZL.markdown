@@ -112,3 +112,9 @@ $('#ozmadps').DataTable({
         ]
 })
 </script>
+
+<script>
+$("img").error(function(){
+  $(this).hide();
+});
+</script>
