@@ -7,8 +7,41 @@ categories: reports
 dataTable: true
 tags:   [reports]
 ---
+# Overview
+<table id="overview" class="scrollbar-deep-purple bordered-deep-purple thin">
+  {% for row in site.data.reports.[page.title].finals.overview %}
+    {% if forloop.first %}
+    <thead>
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    </thead>
+    {% endif %}
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
 
-# AV Damage <img src="/images/av.png" height="32" alt=" ">
+<script>
+$('#overview').DataTable({
+        paging: false,
+        "order": [[ 3, "desc" ]],
+        scrollY: 400,
+        "searching": true,
+        responsive: true,
+        "info" : false,
+        "columnDefs": [
+            {
+            }
+            }
+        ]
+})
+</script>
+
+## AV Damage <img src="/images/av.png" height="32" alt=" ">
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.reports.[page.title].finals.avdamage %}
     {% if forloop.first %}
