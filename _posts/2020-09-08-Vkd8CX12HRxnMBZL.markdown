@@ -51,7 +51,8 @@ $('#avdps').DataTable({
             {
                 "targets": [ 2 ],
                 "searchable": true,
-		"type": "num"
+		data: 'DPS',
+    		render: $.fn.dataTable.render.number( ',', '.', 2, '$' )
             },
             {
                 "targets": [ 1 ],
