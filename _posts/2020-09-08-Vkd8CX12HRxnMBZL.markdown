@@ -51,10 +51,7 @@ $('#avdps').DataTable({
             {
                 "targets": [ 2 ],
                 "searchable": true,
-		"language": {
-			"decimal": ",",
-			"thousands": ","
-			    }
+		"type": number
             },
             {
                 "targets": [ 1 ],
