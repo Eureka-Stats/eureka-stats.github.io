@@ -28,19 +28,16 @@ tags:   [reports]
 <script>
 $('#overview').DataTable({
         paging: false,
-        "order": [[ 3, "desc" ]],
         scrollY: 400,
-        scrollX: 400,
         "searching": true,
         responsive: true,
         "info" : false,
         "columnDefs": [
         	{
                 "targets": [ 2 ],
-                "searchable": false,
                 "data": "FFlogs",
                 "render": function ( data, type, full, meta ) {
-                        return '<a href="https://www.fflogs.com/reports/'+data+'">'+data+'</a>';
+                        return '<a href="https://www.fflogs.com/reports/'+data+'">Link</a>';
                 }
             }
 
