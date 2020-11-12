@@ -122,15 +122,15 @@ else
         echo "AV Damage already Downloaded. Moving on"
 fi
 
-if [ ! -f ./_data/reports/$report/avdamage.csv ]; then
+if [ ! -f ./_data/reports/$report/finals/avdamage.csv ]; then
         jq -r '.entries[] | "\(.name),\(.type),\(.total)"' ./_data/reports/$report/avdamage.json  |
         sort -t, -nrk3 |
         awk -v d="$avkilltimerounded" -F"," 'BEGIN { OFS = "," } {$4=d; print}' |
         awk -v d="$avkilltime" -F "," 'BEGIN { OFS = "," } {print $2, $1, $3/(d), $3, $4}'|
         awk -v d="$avdead" -F"," 'BEGIN { OFS = "," } {$6=d; print}' |
-        awk -v d="$report" -F"," 'BEGIN { OFS = "," } {$7=d; print}'  > ./_data/reports/$report/avdamage.csv                                                                                                                                                                                                                      
+        awk -v d="$report" -F"," 'BEGIN { OFS = "," } {$7=d; print}'  > ./_data/reports/$report/finals/avdamage.csv                                                                                                                                                                                                                      
         echo "AV Damage Cleaned"
-	cat ./_data/reports/$report/avdamage.csv
+	cat ./_data/reports/$report/finals/avdamage.csv
 
 else
         echo "AV Damage already cleaned. Moving on"
