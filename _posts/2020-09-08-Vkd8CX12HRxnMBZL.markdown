@@ -34,7 +34,7 @@ $('#overview').DataTable({
         "info" : false,
         "columnDefs": [
         	{
-                "targets": [ 2 ],
+                "targets": [ 3 ],
                 "data": "FFlogs",
                 "render": function ( data, type, full, meta ) {
                         return '<a href="https://www.fflogs.com/reports/'+data+'">Link</a>';
