@@ -41,7 +41,7 @@ $('#avdps').DataTable({
                 "searchable": false
             },
             {
-                "targets": [ 1 ],
+                "targets": [ 0 ],
                 "searchable": false,
                 "data": "Job",
                 "render": function ( data, type, full, meta ) {
