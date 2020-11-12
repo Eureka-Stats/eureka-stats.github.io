@@ -62,7 +62,7 @@ $('#avdps').DataTable({
 </script>
 
 # Ozma Damage
-<table id="ozmadps">
+<table id="ozmadps" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.reports.[page.title].finals.ozmadamage %}
     {% if forloop.first %}
     <thead>
