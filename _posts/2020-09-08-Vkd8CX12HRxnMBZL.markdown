@@ -33,13 +33,6 @@ $('#overview').DataTable({
         responsive: true,
         "info" : false,
         "columnDefs": [
-        	{
-                "targets": [ 1 ],
-                "data": "FFlogs",
-                "render": function ( data, type, full, meta ) {
-                        return '<a href="https://www.fflogs.com/reports/'+data+'">Link</a>';
-                }
-            }
 
 	]
 })
