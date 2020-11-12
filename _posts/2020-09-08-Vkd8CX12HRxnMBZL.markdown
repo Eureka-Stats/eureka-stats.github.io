@@ -45,7 +45,7 @@ $('#avdps').DataTable({
                 "searchable": true,
                 "data": "Job",
                 "render": function ( data, type, full, meta ) {
-                        return '<img src="/images/'+data+'.png" alt=" "> '+data+'';
+                        return '<img src="/images/jobs/'+data+'.png" alt=" " width="32" height="32"> '+data+'';
                }
 	    },
             {
