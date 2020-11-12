@@ -120,3 +120,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
    })
 });
 </script>
+$("img").error(function(){
+  $(this).hide();
+});
