@@ -62,7 +62,7 @@ $('#avdps').DataTable({
 </script>
 
 # Ozma Damage
-<table class="ozmadps">
+<table id="ozmadps">
   {% for row in site.data.reports.[page.title].finals.ozmadamage %}
     {% if forloop.first %}
     <thead>
@@ -79,19 +79,37 @@ $('#avdps').DataTable({
   {% endfor %}
 </table>
 
+
 <script>
-$('table.ozmadps').DataTable({
+$('#avdps').DataTable({
         paging: false,
         "order": [[ 3, "desc" ]],
-        scrollY: 400,
+        "searching": true,
         responsive: true,
+        "info" : false,
         "columnDefs": [
             {
-                "targets": [ 3 ],
+                "targets": [ 3,4,5,6 ],
                 "visible": false,
-		"decimal": ",",
                 "searchable": false
+            },
+            {
+                "targets": [ 0 ],
+                "searchable": true,
+                "data": "Job",
+                "render": function ( data, type, full, meta ) {
+                        return '<img src="/images/jobs/'+data+'.png" alt=" " width="32" height="32"> '+data+'';
+               }
+            },
+            {
+                "targets": [ 1 ],
+                "searchable": true,
+                "data": "Name",
+                defaultContent: '+data+',
+                "render": function ( data, type, full, meta ) {
+                        return '<img src="/images/people/'+data+'.png" width="32" height="32" alt=" " style="border-radius: 50%"> '+data+'';
+                }
             }
         ]
-} )
+})
 </script>
