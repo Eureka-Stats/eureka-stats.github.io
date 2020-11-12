@@ -49,6 +49,14 @@ $('#avdps').DataTable({
                }
 	    },
             {
+                "targets": [ 2 ],
+                "searchable": true,
+                "data": "DPS",
+                "render": function ( data, type, full ) {
+			return formatNumber(data);   
+               }
+            },
+            {
                 "targets": [ 1 ],
                 "searchable": true,
                 "data": "Name",
@@ -112,14 +120,3 @@ $('#ozmadps').DataTable({
         ]
 })
 </script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function(event) {
-   document.querySelectorAll('img').forEach(function(img){
-  	img.onerror = function(){this.style.display='none';};
-   })
-});
-</script>
-$("img").error(function(){
-  $(this).hide();
-});
