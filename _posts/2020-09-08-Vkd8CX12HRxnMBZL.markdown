@@ -51,10 +51,10 @@ $('#avdps').DataTable({
             {
                 "targets": [ 2 ],
                 "searchable": true,
-                "data": "DPS",
-                "render": function ( data, type, full ) {
-			return formatNumber(data);   
-               }
+		"language": {
+			"decimal": ",",
+			"thousands": ","
+			    }
             },
             {
                 "targets": [ 1 ],
