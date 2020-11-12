@@ -26,6 +26,24 @@ tags:   [reports]
   {% endfor %}
 </table>
 
+<script>
+$('#avdps').DataTable({
+        paging: false,
+        "order": [[ 3, "desc" ]],
+        scrollY: 400,
+        "searching": true,
+        responsive: true,
+        "info" : false,
+        "columnDefs": [
+            {
+                "targets": [ 3 ],
+                "visible": false,
+                "searchable": false
+            }
+        ]
+})
+</script>
+
 # Ozma Damage
 <table class="ozmadps">
   {% for row in site.data.reports.[page.title].finals.ozmadamage %}
@@ -43,24 +61,6 @@ tags:   [reports]
     {% endtablerow %}
   {% endfor %}
 </table>
-
-<script>
-$('#avdps').DataTable({
-	paging: false,
-	"order": [[ 3, "desc" ]],
-	scrollY: 400,
-	"searching": true,
-	responsive: true,
-        "info" : false,
-        "columnDefs": [
-            {
-                "targets": [ 3 ],
-                "visible": false,
-                "searchable": false
-            }
-        ]
-})
-</script>
 
 <script>
 $('table.ozmadps').DataTable({
