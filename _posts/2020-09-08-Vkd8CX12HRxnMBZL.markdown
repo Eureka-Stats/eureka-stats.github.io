@@ -10,7 +10,7 @@ tags:   [reports]
 
 # AV Damage - <img src="/images/whitewulf.jpg">
 <table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
-  {% for row in site.data.reports.[page.title].finals.avdamage %}
+  {% for row in site.data.reports.Vkd8CX12HRxnMBZL.finals.avdamage %}
     {% if forloop.first %}
     <thead>
     <tr>
