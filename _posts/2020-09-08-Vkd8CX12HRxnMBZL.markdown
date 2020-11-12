@@ -54,7 +54,7 @@ $('#avdps').DataTable({
                 "data": "Name",
 		defaultContent: '+data+',
                 "render": function ( data, type, full, meta ) {
-                        return ''+data+' <img src="/images/people/'+data+'.png" width="32" height="32">';
+                        return ''+data+' <img src="/images/people/'+data+'.png" width="32" height="32" alt=" ">';
                 }
             }
         ]
