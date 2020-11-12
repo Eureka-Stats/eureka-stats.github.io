@@ -152,22 +152,6 @@ code[class*=language-], pre[class*=language-] {
   line-height: inherit;
 }
 
-img, 
-.zoom-img-wrap {
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-  &+em {
-    display: inline-block;
-    width: 100%;
-    padding: 20px 0 0;
-    font-size: 12px;
-    font-style: normal;
-    line-height: 1;
-    text-align: center;
-    color: $text-color;
-  }
-}
 
 a {
   text-decoration: none;
