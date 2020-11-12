@@ -83,7 +83,6 @@ $('#avdps').DataTable({
 <script>
 $('#ozmadps').DataTable({
         paging: false,
-        "order": [[ 3, "desc" ]],
         "searching": true,
         responsive: true,
         "info" : false,
