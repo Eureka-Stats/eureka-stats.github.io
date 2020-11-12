@@ -30,6 +30,7 @@ $('#overview').DataTable({
         paging: false,
         "order": [[ 3, "desc" ]],
         scrollY: 400,
+        scrollX: 400,
         "searching": true,
         responsive: true,
         "info" : false,
