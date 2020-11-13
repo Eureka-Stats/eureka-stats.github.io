@@ -30,7 +30,17 @@ $('#reportoverview').DataTable({
         paging: false,
         "searching": false,
         responsive: true,
-        "info" : false
+        "info" : false,
+	"columnDefs": [
+        	{
+                "targets": [ 2 ],
+                "data": "FFlogs",
+                "render": function ( data, type, full, meta ) {
+                        return '<a href="https://www.fflogs.com/reports/'+data+'">Link</a>';
+                }
+            }
+
+	]
 })
 </script>
 
