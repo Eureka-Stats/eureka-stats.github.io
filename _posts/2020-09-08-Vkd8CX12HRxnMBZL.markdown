@@ -8,7 +8,7 @@ dataTable: true
 tags:   [reports]
 ---
 # Overview
-<table id="overview" class="scrollbar-deep-purple bordered-deep-purple thin">
+<table id="reportoverview" class="scrollbar-deep-purple bordered-deep-purple thin">
   {% for row in site.data.reports.[page.title].finals.overview %}
     {% if forloop.first %}
     <thead>
@@ -26,7 +26,7 @@ tags:   [reports]
 </table>
 
 <script>
-$('#overview').DataTable({
+$('#reportoverview').DataTable({
         paging: false,
         scrollY: 400,
         "searching": true,
