@@ -28,8 +28,7 @@ tags:   [reports]
 <script>
 $('#reportoverview').DataTable({
         paging: false,
-        scrollY: 400,
-        "searching": true,
+        "searching": false,
         responsive: true,
         "info" : false
 })
