@@ -8,7 +8,7 @@ dataTable: true
 tags:   [reports]
 ---
 # Overview
-<table id="reportoverview" class="scrollbar-deep-purple bordered-deep-purple thin">
+<table id="reportoverview" class="display">
   {% for row in site.data.reports.[page.title].finals.overview %}
     {% if forloop.first %}
     <thead>
