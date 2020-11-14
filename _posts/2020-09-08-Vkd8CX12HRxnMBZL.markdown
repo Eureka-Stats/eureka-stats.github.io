@@ -27,6 +27,7 @@ tags:   [reports]
 </table>
 
 <script>
+$(document).ready(function() {
 $('#reportoverview').DataTable({
         paging: false,
         "searching": false,
@@ -75,6 +76,7 @@ $('#reportoverview').DataTable({
             );
         }
     } );
+} );
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
