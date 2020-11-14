@@ -1,0 +1,5642 @@
+{
+    "fights": [
+        {
+            "id": 1,
+            "boss": 0,
+            "start_time": 239236121,
+            "end_time": 239274585,
+            "name": "Khalamari",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 2,
+            "boss": 0,
+            "start_time": 239290063,
+            "end_time": 239294695,
+            "name": "Snowmelt Sprite",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 3,
+            "boss": 0,
+            "start_time": 246712326,
+            "end_time": 246712855,
+            "name": "Happy Bunny",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 4,
+            "boss": 0,
+            "start_time": 246783432,
+            "end_time": 246966630,
+            "name": "Ovni",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 5,
+            "boss": 0,
+            "start_time": 248007142,
+            "end_time": 248132960,
+            "name": "Haokah Followed",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 6,
+            "boss": 0,
+            "start_time": 248775432,
+            "end_time": 249042830,
+            "name": "Ovni",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 7,
+            "boss": 0,
+            "start_time": 249231004,
+            "end_time": 249299745,
+            "name": "Thunderstorm Sprite",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 8,
+            "boss": 0,
+            "start_time": 249575868,
+            "end_time": 249812898,
+            "name": "Arsenal Demon Wall",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 9,
+            "boss": 0,
+            "start_time": 250043624,
+            "end_time": 250172954,
+            "name": "Art",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 10,
+            "boss": 0,
+            "start_time": 250229996,
+            "end_time": 250246929,
+            "name": "Arsenal Calcabrina",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 11,
+            "boss": 0,
+            "start_time": 250258202,
+            "end_time": 250349683,
+            "name": "Arsenal Sprite",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 12,
+            "boss": 0,
+            "start_time": 250400329,
+            "end_time": 250401664,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 13,
+            "boss": 0,
+            "start_time": 250666272,
+            "end_time": 250730024,
+            "name": "Raiden",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 14,
+            "boss": 0,
+            "start_time": 250741977,
+            "end_time": 250824854,
+            "name": "Raiden",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 15,
+            "boss": 0,
+            "start_time": 250846338,
+            "end_time": 250935532,
+            "name": "Arsenal Calcabrina",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 16,
+            "boss": 0,
+            "start_time": 250969612,
+            "end_time": 251122057,
+            "name": "Arsenal Viking",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 17,
+            "boss": 0,
+            "start_time": 251183501,
+            "end_time": 251184793,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 18,
+            "boss": 0,
+            "start_time": 251199779,
+            "end_time": 251296063,
+            "name": "Arsenal Skatene",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 19,
+            "boss": 0,
+            "start_time": 251323775,
+            "end_time": 251364416,
+            "name": "Arsenal Brina",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 20,
+            "boss": 0,
+            "start_time": 251414720,
+            "end_time": 251540778,
+            "name": "Arsenal Calcabrina",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 21,
+            "boss": 0,
+            "start_time": 251684957,
+            "end_time": 251706659,
+            "name": "Arsenal Geshunpest",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 22,
+            "boss": 0,
+            "start_time": 251717841,
+            "end_time": 251720688,
+            "name": "Arsenal Geshunpest",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 23,
+            "boss": 0,
+            "start_time": 251731115,
+            "end_time": 251740469,
+            "name": "Arsenal Geshunpest",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 24,
+            "boss": 0,
+            "start_time": 251779106,
+            "end_time": 251779727,
+            "name": "Unknown",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 25,
+            "boss": 0,
+            "start_time": 251793631,
+            "end_time": 251801874,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 26,
+            "boss": 0,
+            "start_time": 251828030,
+            "end_time": 251833864,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 27,
+            "boss": 0,
+            "start_time": 251871599,
+            "end_time": 251872222,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 28,
+            "boss": 0,
+            "start_time": 251888720,
+            "end_time": 251986488,
+            "name": "Arsenal Viking",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 29,
+            "boss": 0,
+            "start_time": 252034823,
+            "end_time": 252123203,
+            "name": "Arsenal Tome",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 30,
+            "boss": 0,
+            "start_time": 252480612,
+            "end_time": 252525329,
+            "name": "Arsenal Magus",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 31,
+            "boss": 0,
+            "start_time": 252640502,
+            "end_time": 252641122,
+            "name": "Hidden Trap",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 32,
+            "boss": 0,
+            "start_time": 252824172,
+            "end_time": 253110802,
+            "name": "Absolute Virtue",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 33,
+            "boss": 0,
+            "start_time": 253167042,
+            "end_time": 253185927,
+            "name": "Unknown",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 34,
+            "boss": 0,
+            "start_time": 253693797,
+            "end_time": 253735982,
+            "name": "Arsenal Magus",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 35,
+            "boss": 0,
+            "start_time": 253789049,
+            "end_time": 253791145,
+            "name": "Arsenal Magus",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        },
+        {
+            "id": 36,
+            "boss": 0,
+            "start_time": 254039570,
+            "end_time": 254433638,
+            "name": "Proto Ozma",
+            "zoneID": 827,
+            "zoneName": "the Forbidden Land, Eureka Hydatos"
+        }
+    ],
+    "lang": "en",
+    "friendlies": [
+        {
+            "name": "Octavia Hardwoode",
+            "id": 4,
+            "guid": 1000003,
+            "type": "Warrior",
+            "server": "Exodus",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Rykon Strife",
+            "id": 148,
+            "guid": 1000147,
+            "type": "Machinist",
+            "server": "Behemoth",
+            "icon": "Machinist",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Kristiani Asatami",
+            "id": 140,
+            "guid": 1000139,
+            "type": "Bard",
+            "server": "Leviathan",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Von Static",
+            "id": 119,
+            "guid": 1000118,
+            "type": "Summoner",
+            "server": "Hyperion",
+            "icon": "Summoner",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Mina Velkh",
+            "id": 145,
+            "guid": 1000144,
+            "type": "Astrologian",
+            "server": "Behemoth",
+            "icon": "Astrologian",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Garung Arung",
+            "id": 139,
+            "guid": 1000138,
+            "type": "RedMage",
+            "server": "Excalibur",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Somebody Else",
+            "id": 91,
+            "guid": 1000090,
+            "type": "Samurai",
+            "server": "Excalibur",
+            "icon": "Samurai",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Zam Togetsu",
+            "id": 164,
+            "guid": 1000163,
+            "type": "Gunbreaker",
+            "server": "Behemoth",
+            "icon": "Gunbreaker",
+            "fights": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Dionisio Parizzi",
+            "id": 127,
+            "guid": 1000126,
+            "type": "RedMage",
+            "server": "Ultros",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Naser Alcarin",
+            "id": 143,
+            "guid": 1000142,
+            "type": "Gunbreaker",
+            "server": "Leviathan",
+            "icon": "Gunbreaker",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Grimcheeks Jaegerjack",
+            "id": 209,
+            "guid": 1000208,
+            "type": "Machinist",
+            "server": "Leviathan",
+            "icon": "Machinist",
+            "fights": [
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Noxia Nocturna",
+            "id": 105,
+            "guid": 1000104,
+            "type": "WhiteMage",
+            "server": "Excalibur",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Limit Break",
+            "id": 180,
+            "guid": 1000179,
+            "type": "LimitBreak",
+            "icon": "LimitBreak",
+            "fights": [
+                {
+                    "id": 9
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Freyja Veleda",
+            "id": 82,
+            "guid": 1000081,
+            "type": "DarkKnight",
+            "server": "Famfrit",
+            "icon": "DarkKnight",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Lycan Wolf",
+            "id": 137,
+            "guid": 1000136,
+            "type": "Paladin",
+            "server": "Excalibur",
+            "icon": "Paladin",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Kairi Knight'",
+            "id": 122,
+            "guid": 1000121,
+            "type": "Dancer",
+            "server": "Lamia",
+            "icon": "Dancer",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Rhal'a Lhseva",
+            "id": 104,
+            "guid": 1000103,
+            "type": "Paladin",
+            "server": "Ultros",
+            "icon": "Paladin",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Juice Nmilk",
+            "id": 120,
+            "guid": 1000119,
+            "type": "Dragoon",
+            "server": "Hyperion",
+            "icon": "Dragoon",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Kenn Rune",
+            "id": 157,
+            "guid": 1000156,
+            "type": "Gunbreaker",
+            "server": "Famfrit",
+            "icon": "Gunbreaker",
+            "fights": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Annelise Sera",
+            "id": 83,
+            "guid": 1000082,
+            "type": "WhiteMage",
+            "server": "Famfrit",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "name": "Aggamarr Atroc",
+            "id": 128,
+            "guid": 1000127,
+            "type": "Warrior",
+            "server": "Exodus",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Cyril Buchanan",
+            "id": 89,
+            "guid": 1000088,
+            "type": "Paladin",
+            "server": "Ultros",
+            "icon": "Paladin",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Rainmir Zaliel",
+            "id": 133,
+            "guid": 1000132,
+            "type": "BlackMage",
+            "server": "Leviathan",
+            "icon": "BlackMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Putoni Kesutoni",
+            "id": 107,
+            "guid": 1000106,
+            "type": "Warrior",
+            "server": "Ultros",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 31
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Cleo Raine",
+            "id": 79,
+            "guid": 1000078,
+            "type": "RedMage",
+            "server": "Lamia",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 3
+                }
+            ]
+        },
+        {
+            "name": "Wind-Up Tokirius",
+            "id": 126,
+            "guid": 1000125,
+            "type": "Bard",
+            "server": "Lamia",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Kharnzarro Muffington",
+            "id": 87,
+            "guid": 1000086,
+            "type": "WhiteMage",
+            "server": "Hyperion",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Aiso J'fule",
+            "id": 116,
+            "guid": 1000115,
+            "type": "Astrologian",
+            "server": "Behemoth",
+            "icon": "Astrologian",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Coffeebean Creampuff",
+            "id": 118,
+            "guid": 1000117,
+            "type": "Scholar",
+            "server": "Excalibur",
+            "icon": "Scholar",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Trindine Beurremont",
+            "id": 5,
+            "guid": 1000004,
+            "type": "Bard",
+            "server": "Hyperion",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "name": "Yoshima Dragonclaw",
+            "id": 85,
+            "guid": 1000084,
+            "type": "Machinist",
+            "server": "Hyperion",
+            "icon": "Machinist",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Cyrex Laq'ren",
+            "id": 132,
+            "guid": 1000131,
+            "type": "Scholar",
+            "server": "Lamia",
+            "icon": "Scholar",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Rylai Cressfall",
+            "id": 71,
+            "guid": 1000070,
+            "type": "Summoner",
+            "server": "Exodus",
+            "icon": "Summoner",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Nat Yurs",
+            "id": 138,
+            "guid": 1000137,
+            "type": "RedMage",
+            "server": "Exodus",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "L'il Sebastian",
+            "id": 115,
+            "guid": 1000114,
+            "type": "RedMage",
+            "server": "Behemoth",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Izayoi Ishikawa",
+            "id": 141,
+            "guid": 1000140,
+            "type": "Scholar",
+            "server": "Hyperion",
+            "icon": "Scholar",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Clair Nakiri",
+            "id": 76,
+            "guid": 1000075,
+            "type": "Warrior",
+            "server": "Lamia",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Brielle Silverwood",
+            "id": 75,
+            "guid": 1000074,
+            "type": "Paladin",
+            "server": "Exodus",
+            "icon": "Paladin",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 31
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Jaiyo Bot",
+            "id": 106,
+            "guid": 1000105,
+            "type": "RedMage",
+            "server": "Excalibur",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Masane Mayushi",
+            "id": 103,
+            "guid": 1000102,
+            "type": "Bard",
+            "server": "Behemoth",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Altani Starshaper",
+            "id": 144,
+            "guid": 1000143,
+            "type": "Warrior",
+            "server": "Excalibur",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Mel Brand",
+            "id": 131,
+            "guid": 1000130,
+            "type": "Warrior",
+            "server": "Hyperion",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Ground Effect",
+            "id": 12,
+            "guid": 1000011,
+            "type": "LimitBreak",
+            "icon": "LimitBreak",
+            "fights": [
+                {
+                    "id": 18
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Asuna Pochita",
+            "id": 86,
+            "guid": 1000085,
+            "type": "Samurai",
+            "server": "Hyperion",
+            "icon": "Samurai",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Evident Knight",
+            "id": 190,
+            "guid": 1000189,
+            "type": "Samurai",
+            "server": "Excalibur",
+            "icon": "Samurai",
+            "fights": [
+                {
+                    "id": 11
+                }
+            ]
+        },
+        {
+            "name": "Stinky Lizard",
+            "id": 134,
+            "guid": 1000133,
+            "type": "Paladin",
+            "server": "Hyperion",
+            "icon": "Paladin",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Chinchilla Chan",
+            "id": 110,
+            "guid": 1000109,
+            "type": "WhiteMage",
+            "server": "Ultros",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Woof Woof",
+            "id": 74,
+            "guid": 1000073,
+            "type": "RedMage",
+            "server": "Exodus",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Little Sword",
+            "id": 142,
+            "guid": 1000141,
+            "type": "RedMage",
+            "server": "Famfrit",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Lord Sithari",
+            "id": 123,
+            "guid": 1000122,
+            "type": "Ninja",
+            "server": "Hyperion",
+            "icon": "Ninja",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Onewith Nothoughts",
+            "id": 88,
+            "guid": 1000087,
+            "type": "RedMage",
+            "server": "Excalibur",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Sibyl Vitalis",
+            "id": 81,
+            "guid": 1000080,
+            "type": "Astrologian",
+            "server": "Exodus",
+            "icon": "Astrologian",
+            "fights": [
+                {
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "name": "Ivrea Salander",
+            "id": 129,
+            "guid": 1000128,
+            "type": "RedMage",
+            "server": "Leviathan",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Multiple Players",
+            "id": 7,
+            "guid": 1000006,
+            "type": "LimitBreak",
+            "icon": "LimitBreak",
+            "fights": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 3
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 7
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 30
+                },
+                {
+                    "id": 31
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 34
+                },
+                {
+                    "id": 35
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Cherri Creampuff",
+            "id": 158,
+            "guid": 1000157,
+            "type": "Summoner",
+            "server": "Excalibur",
+            "icon": "Summoner",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "G'raha Blast",
+            "id": 114,
+            "guid": 1000113,
+            "type": "Samurai",
+            "server": "Ultros",
+            "icon": "Samurai",
+            "fights": [
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Ayo Bun",
+            "id": 40,
+            "guid": 1000039,
+            "type": "WhiteMage",
+            "server": "Exodus",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Arcadia Rey",
+            "id": 130,
+            "guid": 1000129,
+            "type": "WhiteMage",
+            "server": "Hyperion",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Zam Togetsu",
+            "id": 1,
+            "guid": 1000000,
+            "type": "Warrior",
+            "server": "Behemoth",
+            "icon": "Warrior",
+            "fights": [
+                {
+                    "id": 1
+                }
+            ]
+        },
+        {
+            "name": "Bakuretsu Onna",
+            "id": 112,
+            "guid": 1000111,
+            "type": "Bard",
+            "server": "Leviathan",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 5
+                },
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Irillas Ijoralis",
+            "id": 159,
+            "guid": 1000158,
+            "type": "RedMage",
+            "server": "Hyperion",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Hin Atafan",
+            "id": 102,
+            "guid": 1000101,
+            "type": "Scholar",
+            "server": "Lamia",
+            "icon": "Scholar",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Margulis Nakata",
+            "id": 135,
+            "guid": 1000134,
+            "type": "Ninja",
+            "server": "Excalibur",
+            "icon": "Ninja",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Kathariel Natas",
+            "id": 93,
+            "guid": 1000092,
+            "type": "WhiteMage",
+            "server": "Famfrit",
+            "icon": "WhiteMage",
+            "fights": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Emet- Sulk",
+            "id": 109,
+            "guid": 1000108,
+            "type": "Samurai",
+            "server": "Ultros",
+            "icon": "Samurai",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Apollo Armstrong",
+            "id": 108,
+            "guid": 1000107,
+            "type": "Astrologian",
+            "server": "Leviathan",
+            "icon": "Astrologian",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Nemo Amatrix",
+            "id": 146,
+            "guid": 1000145,
+            "type": "Ninja",
+            "server": "Exodus",
+            "icon": "Ninja",
+            "fights": [
+                {
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Sadie Lady",
+            "id": 124,
+            "guid": 1000123,
+            "type": "Scholar",
+            "server": "Hyperion",
+            "icon": "Scholar",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 27
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Annelise Sera",
+            "id": 111,
+            "guid": 1000110,
+            "type": "Astrologian",
+            "server": "Famfrit",
+            "icon": "Astrologian",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 25
+                },
+                {
+                    "id": 26
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Woo Wee",
+            "id": 121,
+            "guid": 1000120,
+            "type": "RedMage",
+            "server": "Ultros",
+            "icon": "RedMage",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 10
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Nemo Amatrix",
+            "id": 210,
+            "guid": 1000209,
+            "type": "Bard",
+            "server": "Exodus",
+            "icon": "Bard",
+            "fights": [
+                {
+                    "id": 32
+                },
+                {
+                    "id": 36
+                }
+            ]
+        },
+        {
+            "name": "Majin Buub",
+            "id": 113,
+            "guid": 1000112,
+            "type": "Machinist",
+            "server": "Behemoth",
+            "icon": "Machinist",
+            "fights": [
+                {
+                    "id": 6
+                },
+                {
+                    "id": 8
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 11
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 19
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 28
+                },
+                {
+                    "id": 29
+                },
+                {
+                    "id": 32
+                },
+                {
+                    "id": 33
+                },
+                {
+                    "id": 36
+                }
+            ]
+        }
+    ],
+    "enemies": [
+        {
+            "name": "Arsenal Demon Wall",
+            "id": 175,
+            "guid": 9804,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 8,
+                    "instances": 3,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Skatene",
+            "id": 204,
+            "guid": 9800,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 18,
+                    "instances": 6,
+                    "groups": 3
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Scribe",
+            "id": 197,
+            "guid": 9789,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 15,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Snowmelt Sprite",
+            "id": 6,
+            "guid": 9936,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 2,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Sprite",
+            "id": 186,
+            "guid": 9806,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 11,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 3,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Ozmasphere",
+            "id": 225,
+            "guid": 9706,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 36,
+                    "instances": 6,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Magus",
+            "id": 188,
+            "guid": 9788,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 11,
+                    "instances": 5,
+                    "groups": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 30,
+                    "instances": 3,
+                    "groups": 1
+                },
+                {
+                    "id": 34,
+                    "instances": 4,
+                    "groups": 1
+                },
+                {
+                    "id": 35,
+                    "instances": 6,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Happy Bunny",
+            "id": 151,
+            "guid": 10055,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Shadow",
+            "id": 223,
+            "guid": 9769,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 36,
+                    "instances": 9,
+                    "groups": 3
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Fan",
+            "id": 198,
+            "guid": 9797,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 15,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Dark Aurora",
+            "id": 214,
+            "guid": 9696,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 8,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Centaur",
+            "id": 189,
+            "guid": 9791,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 11,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Brina",
+            "id": 206,
+            "guid": 9802,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 19,
+                    "instances": 6,
+                    "groups": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Khalamari",
+            "id": 2,
+            "guid": 9864,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 1,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Viking",
+            "id": 202,
+            "guid": 9787,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 16,
+                    "instances": 3,
+                    "groups": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 2,
+                    "groups": 2
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Orlasrach",
+            "id": 182,
+            "guid": 9819,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 4,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Urolith",
+            "id": 226,
+            "guid": 9707,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 36,
+                    "instances": 12,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Raiden",
+            "id": 192,
+            "guid": 9733,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Thunderstorm Sprite",
+            "id": 161,
+            "guid": 9946,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 8,
+                    "groups": 3
+                },
+                {
+                    "id": 7,
+                    "instances": 6,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Byblos",
+            "id": 178,
+            "guid": 9790,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 8,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Bibliotaph",
+            "id": 200,
+            "guid": 9792,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 15,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Audacious Elbst",
+            "id": 80,
+            "guid": 10057,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 10,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Poroggo",
+            "id": 208,
+            "guid": 9793,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 20,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Happy Bunny",
+            "id": 152,
+            "guid": 10065,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Tome",
+            "id": 207,
+            "guid": 9799,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 20,
+                    "instances": 2,
+                    "groups": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 3,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Proto Ozma",
+            "id": 222,
+            "guid": 9704,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Logos",
+            "id": 201,
+            "guid": 9796,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 16,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Bright Aurora",
+            "id": 215,
+            "guid": 9695,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 8,
+                    "groups": 4
+                }
+            ]
+        },
+        {
+            "name": "Absolute Virtue",
+            "id": 211,
+            "guid": 9692,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 1,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Relative Virtue",
+            "id": 218,
+            "guid": 9693,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 3,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Streak Lightning",
+            "id": 196,
+            "guid": 9735,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 14,
+                    "instances": 6,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Audacious Elbst",
+            "id": 150,
+            "guid": 10056,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 6,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Viking",
+            "id": 176,
+            "guid": 9845,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 8,
+                    "instances": 3,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Eye",
+            "id": 199,
+            "guid": 9805,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 15,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "id": 183,
+            "guid": 9820,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 9,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "id": 179,
+            "guid": 9818,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Haokah Unburdened",
+            "id": 78,
+            "guid": 10058,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 3,
+                    "instances": 3,
+                    "groups": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 4,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Calcabrina",
+            "id": 185,
+            "guid": 9795,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 10,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1,
+                    "groups": 2
+                }
+            ]
+        },
+        {
+            "name": "Ball Lightning",
+            "id": 195,
+            "guid": 9734,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 14,
+                    "instances": 4,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Ovni",
+            "id": 84,
+            "guid": 9861,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 4,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 6,
+                    "instances": 1,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Aern's Wynav",
+            "id": 219,
+            "guid": 9694,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Hidden Trap",
+            "id": 191,
+            "guid": 6358,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 12,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 25,
+                    "instances": 4,
+                    "groups": 1
+                },
+                {
+                    "id": 26,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 27,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 31,
+                    "instances": 1,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Calca",
+            "id": 203,
+            "guid": 9801,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 16,
+                    "instances": 3,
+                    "groups": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Geshunpest",
+            "id": 187,
+            "guid": 9807,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 11,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 22,
+                    "instances": 2,
+                    "groups": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Absolute Virtue",
+            "id": 212,
+            "guid": 9768,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 17,
+                    "groups": 5
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Vodoriga",
+            "id": 205,
+            "guid": 9803,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 18,
+                    "instances": 6,
+                    "groups": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2,
+                    "groups": 1
+                }
+            ]
+        },
+        {
+            "name": "Haokah Followed",
+            "id": 153,
+            "guid": 10059,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 5,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Arsenal Poroggo",
+            "id": 177,
+            "guid": 9847,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 8,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Happy Bunny",
+            "id": 77,
+            "guid": 10064,
+            "type": "NPC",
+            "icon": "NPC",
+            "fights": [
+                {
+                    "id": 3,
+                    "instances": 1,
+                    "groups": 1
+                },
+                {
+                    "id": 5,
+                    "instances": 1,
+                    "groups": 2
+                }
+            ]
+        }
+    ],
+    "friendlyPets": [
+        {
+            "name": "Emerald Carbuncle",
+            "id": 160,
+            "guid": 1015,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 119,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 2
+                },
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Topaz Carbuncle",
+            "id": 220,
+            "guid": 1014,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 119,
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 1
+                },
+                {
+                    "id": 36,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Demi-Bahamut",
+            "id": 166,
+            "guid": 6982,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 71,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 4
+                }
+            ]
+        },
+        {
+            "name": "Rook Autoturret",
+            "id": 90,
+            "guid": 3256,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 85,
+            "fights": [
+                {
+                    "id": 4,
+                    "instances": 2
+                },
+                {
+                    "id": 6,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Earthly Star",
+            "id": 167,
+            "guid": 7245,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 145,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 4
+                },
+                {
+                    "id": 36,
+                    "instances": 4
+                }
+            ]
+        },
+        {
+            "name": "Rook Autoturret",
+            "id": 181,
+            "guid": 3256,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 113,
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 4
+                },
+                {
+                    "id": 36,
+                    "instances": 6
+                }
+            ]
+        },
+        {
+            "name": "Eos",
+            "id": 184,
+            "guid": 1008,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 102,
+            "fights": [
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 1
+                },
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Ruby Carbuncle",
+            "id": 136,
+            "guid": 1013,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 158,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 2
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 4
+                }
+            ]
+        },
+        {
+            "name": "Earthly Star",
+            "id": 168,
+            "guid": 7245,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 111,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 5
+                }
+            ]
+        },
+        {
+            "name": "Ruby Carbuncle",
+            "id": 72,
+            "guid": 1013,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 71,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 2
+                },
+                {
+                    "id": 13,
+                    "instances": 2
+                },
+                {
+                    "id": 14,
+                    "instances": 3
+                },
+                {
+                    "id": 15,
+                    "instances": 2
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 2
+                },
+                {
+                    "id": 20,
+                    "instances": 2
+                },
+                {
+                    "id": 21,
+                    "instances": 2
+                },
+                {
+                    "id": 23,
+                    "instances": 3
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 5
+                }
+            ]
+        },
+        {
+            "name": "Rook Autoturret",
+            "id": 163,
+            "guid": 3256,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 148,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 11,
+                    "instances": 2
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 23,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 5
+                }
+            ]
+        },
+        {
+            "name": "Selene",
+            "id": 147,
+            "guid": 1009,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 132,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 12,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 2
+                },
+                {
+                    "id": 36,
+                    "instances": 2
+                }
+            ]
+        },
+        {
+            "name": "Eos",
+            "id": 117,
+            "guid": 1008,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 141,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 10,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 24,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 2
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 1
+                },
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Demi-Bahamut",
+            "id": 216,
+            "guid": 6982,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 119,
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Earthly Star",
+            "id": 194,
+            "guid": 7245,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 116,
+            "fights": [
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 2
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 2
+                },
+                {
+                    "id": 36,
+                    "instances": 4
+                }
+            ]
+        },
+        {
+            "name": "Demi-Bahamut",
+            "id": 162,
+            "guid": 6982,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 158,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Earthly Star",
+            "id": 92,
+            "guid": 7245,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 81,
+            "fights": [
+                {
+                    "id": 4,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Rook Autoturret",
+            "id": 213,
+            "guid": 3256,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 209,
+            "fights": [
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Earthly Star",
+            "id": 165,
+            "guid": 7245,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 108,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 2
+                },
+                {
+                    "id": 19,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 3
+                },
+                {
+                    "id": 36,
+                    "instances": 3
+                }
+            ]
+        },
+        {
+            "name": "Selene",
+            "id": 156,
+            "guid": 1009,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 118,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 1
+                },
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        },
+        {
+            "name": "Eos",
+            "id": 125,
+            "guid": 1008,
+            "type": "Pet",
+            "icon": "Pet",
+            "petOwner": 124,
+            "fights": [
+                {
+                    "id": 6,
+                    "instances": 1
+                },
+                {
+                    "id": 8,
+                    "instances": 1
+                },
+                {
+                    "id": 9,
+                    "instances": 1
+                },
+                {
+                    "id": 11,
+                    "instances": 1
+                },
+                {
+                    "id": 13,
+                    "instances": 1
+                },
+                {
+                    "id": 14,
+                    "instances": 1
+                },
+                {
+                    "id": 15,
+                    "instances": 1
+                },
+                {
+                    "id": 16,
+                    "instances": 1
+                },
+                {
+                    "id": 17,
+                    "instances": 1
+                },
+                {
+                    "id": 18,
+                    "instances": 1
+                },
+                {
+                    "id": 20,
+                    "instances": 1
+                },
+                {
+                    "id": 21,
+                    "instances": 1
+                },
+                {
+                    "id": 28,
+                    "instances": 1
+                },
+                {
+                    "id": 29,
+                    "instances": 1
+                },
+                {
+                    "id": 32,
+                    "instances": 1
+                },
+                {
+                    "id": 36,
+                    "instances": 1
+                }
+            ]
+        }
+    ],
+    "enemyPets": [],
+    "logVersion": 41,
+    "gameVersion": 1,
+    "title": "Unknown Zone",
+    "owner": "kentgrayson",
+    "start": 1604981646393,
+    "end": 1605236080031,
+    "zone": -1,
+    "exportedCharacters": []
+}
