@@ -55,7 +55,7 @@ $('#reportoverview').DataTable({
  
             // Total over all pages
             total = api
-                .column( 4 )
+                .column( 3 )
                 .data()
                 .reduce( function (a, b) {
                     return intVal(a) + intVal(b);
@@ -63,14 +63,14 @@ $('#reportoverview').DataTable({
  
             // Total over this page
             pageTotal = api
-                .column( 4, { page: 'current'} )
+                .column( 3, { page: 'current'} )
                 .data()
                 .reduce( function (a, b) {
                     return intVal(a) + intVal(b);
                 }, 0 );
  
             // Update footer
-            $( api.column( 4 ).footer() ).html(
+            $( api.column( 3 ).footer() ).html(
                 '$'+pageTotal +' ( $'+ total +' total)'
             );
         }
