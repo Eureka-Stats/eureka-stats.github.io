@@ -67,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Jupiter', Fallback, sans-serif;
+  font-family: $heading-font-family;
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
