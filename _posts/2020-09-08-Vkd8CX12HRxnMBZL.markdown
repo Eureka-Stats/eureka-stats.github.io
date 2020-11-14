@@ -37,32 +37,14 @@ tags:   [reports]
 </table>
 
 <script>
-$('#reportoverview').DataTable({
-        paging: true;,
-        "searching": false,
-        responsive: true,
-        "info" : false,
-        buttons: [{ extend: 'print',
-            footer: true }],
-        "columnDefs": [
-                {
-                "targets": [ 2 ],
-                "data": "FFlogs",
-                "render": function ( data, type, full, meta ) {
-                        return '<a href="https://www.fflogs.com/reports/'+data+'">Link</a>';
-                }
-            }
-
-        ],
-        "footerCallback": function ( tfoot, data, start, end, display ) {
-            var api = this.api(), data;
-
-            // Update footer
-            $( api.column( 3 ).footer() ).html(
-                +data+
-            );
-        }
-    } );
+var table = $('#reportoverview').DataTable();
+var column = table.column( 0 );
+ 
+$( column.footer() ).html(
+    column.data().reduce( function (a,b) {
+        return a+b;
+    } )
+);
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
