@@ -57,7 +57,7 @@ $('#reportoverview').DataTable({
             }
 
 	],
-        "footerCallback": function ( row, data, start, end, display ) {
+        "footerCallback": function ( tfoot, data, start, end, display ) {
             var api = this.api(), data;
  
             // Remove the formatting to get integer data for summation
