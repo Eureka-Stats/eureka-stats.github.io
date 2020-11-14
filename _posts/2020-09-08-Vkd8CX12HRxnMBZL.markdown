@@ -45,6 +45,8 @@ $('#reportoverview').DataTable({
         "searching": false,
         responsive: true,
         "info" : false,
+	buttons: [{ extend: 'print',
+            footer: true }],
 	"columnDefs": [
         	{
                 "targets": [ 2 ],
