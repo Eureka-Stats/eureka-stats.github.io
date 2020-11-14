@@ -27,6 +27,13 @@ tags:   [reports]
             <tr>
                 <th colspan="4" style="text-align:right;white-space: nowrap;">Total:</th>
                 <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
             </tr>
         </tfoot>
 </table>
