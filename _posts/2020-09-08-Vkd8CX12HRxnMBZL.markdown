@@ -40,7 +40,8 @@ tags:   [reports]
 </table>
 
 <script>
-$('#reportoverview').DataTable({
+$("#reportoverview").append('<tfoot><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tfoot>');
+var table = $('#reportoverview').DataTable({
         paging: true;,
         "searching": false,
         responsive: true,
