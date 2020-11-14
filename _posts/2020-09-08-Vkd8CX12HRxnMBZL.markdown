@@ -23,11 +23,15 @@ tags:   [reports]
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-  <tfoot></tfoot>
+        <tfoot>
+            <tr>
+                <th colspan="4" style="text-align:right">Total:</th>
+                <th></th>
+            </tr>
+        </tfoot>
 </table>
 
 <script>
-$(document).ready(function() {
 $('#reportoverview').DataTable({
         paging: false,
         "searching": false,
@@ -76,7 +80,6 @@ $('#reportoverview').DataTable({
             );
         }
     } );
-} );
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
