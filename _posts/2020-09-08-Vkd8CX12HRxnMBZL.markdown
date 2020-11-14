@@ -8,7 +8,7 @@ dataTable: true
 tags:   [reports]
 ---
 # Overview
-<table id="reportoverview" class="display">
+<table id="reportoverview" class="display" width="100%">
   {% for row in site.data.reports.[page.title].finals.overview %}
     {% if forloop.first %}
     <thead>
@@ -25,15 +25,15 @@ tags:   [reports]
   {% endfor %}
         <tfoot>
             <tr>
-                <th colspan="4" style="text-align:right">Total:</th>
-                <th></th>
+                <th colspan="4" style="text-align:right;white-space: nowrap;">Total:</th>
+                <th style="white-space: nowrap"></th>
             </tr>
         </tfoot>
 </table>
 
 <script>
 $('#reportoverview').DataTable({
-        paging: false,
+        paging: true;,
         "searching": false,
         responsive: true,
         "info" : false,
@@ -66,7 +66,6 @@ $('#reportoverview').DataTable({
                     return intVal(a) + intVal(b);
                 }, 0 );
  
-            // Total over this page
             pageTotal = api
                 .column( 3, { page: 'current'} )
                 .data()
