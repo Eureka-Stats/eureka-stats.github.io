@@ -37,16 +37,15 @@ tags:   [reports]
 </table>
 
 <script>
-$("#reportoverview").append('<tfoot><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tfoot>');
-var table = $('#reportoverview').DataTable({
+$('#reportoverview').DataTable({
         paging: true;,
         "searching": false,
         responsive: true,
         "info" : false,
-	buttons: [{ extend: 'print',
+        buttons: [{ extend: 'print',
             footer: true }],
-	"columnDefs": [
-        	{
+        "columnDefs": [
+                {
                 "targets": [ 2 ],
                 "data": "FFlogs",
                 "render": function ( data, type, full, meta ) {
@@ -54,36 +53,13 @@ var table = $('#reportoverview').DataTable({
                 }
             }
 
-	],
+        ],
         "footerCallback": function ( tfoot, data, start, end, display ) {
             var api = this.api(), data;
- 
-            // Remove the formatting to get integer data for summation
-            var intVal = function ( i ) {
-                return typeof i === 'string' ?
-                    i.replace(/[\$,]/g, '')*1 :
-                    typeof i === 'number' ?
-                        i : 0;
-            };
- 
-            // Total over all pages
-            total = api
-                .column( 3 )
-                .data()
-                .reduce( function (a, b) {
-                    return intVal(a) + intVal(b);
-                }, 0 );
- 
-            pageTotal = api
-                .column( 3, { page: 'current'} )
-                .data()
-                .reduce( function (a, b) {
-                    return intVal(a) + intVal(b);
-                }, 0 );
- 
+
             // Update footer
             $( api.column( 3 ).footer() ).html(
-                '$'+pageTotal +' ( $'+ total +' total)'
+                +data+
             );
         }
     } );
