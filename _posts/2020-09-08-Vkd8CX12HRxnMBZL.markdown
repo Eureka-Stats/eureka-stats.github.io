@@ -20,7 +20,15 @@ tags:   [reports]
     </thead>
     <tfoot>
         <tr>
-            <th colspan="4" style="text-align:right">Total:</th>
+            <th colspan="3" style="text-align:right">Total:</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
             <th></th>
         </tr>
     </tfoot>
