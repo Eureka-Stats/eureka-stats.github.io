@@ -23,6 +23,7 @@ tags:   [reports]
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
+<tfoot></tfoot>
 </table>
 
 <script>
