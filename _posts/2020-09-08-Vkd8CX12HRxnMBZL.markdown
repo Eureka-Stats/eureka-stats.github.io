@@ -34,6 +34,7 @@ tags:   [reports]
                 <th style="white-space: nowrap"></th>
                 <th style="white-space: nowrap"></th>
                 <th style="white-space: nowrap"></th>
+                <th style="white-space: nowrap"></th>
             </tr>
         </tfoot>
 </table>
