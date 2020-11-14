@@ -18,6 +18,12 @@ tags:   [reports]
       {% endfor %}
     </tr>
     </thead>
+    <tfoot>
+        <tr>
+            <th colspan="4" style="text-align:right">Total:</th>
+            <th></th>
+        </tr>
+    </tfoot>
     {% endif %}
     {% tablerow pair in row %}
       {{ pair[1] }}
