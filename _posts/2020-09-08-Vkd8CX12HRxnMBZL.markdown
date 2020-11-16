@@ -11,16 +11,16 @@ tags:   [reports]
 <div>
         <ul class="nav nav-tabs" role="tablist">
             <li class="active">
-                <a href="#tab-table1" data-toggle="tab">Table 1</a>
+                <a href="#tab-table1" data-toggle="tab">DPS</a>
             </li>
             <li>
-                <a href="#tab-table2" data-toggle="tab">Table 2</a>
+                <a href="#tab-table2" data-toggle="tab">HPS</a>
             </li>
         </ul>
         <div class="tab-content">
             <div class="tab-pane active" id="tab-table1">
                 <table id="myTable1" class="table table-striped table-bordered" width="100%" cellspacing="0">
-					{% for row in site.data.reports.[page.title].finals.avdps %}
+					{% for row in site.data.reports.[page.title].finals.avdamage %}
 						{% if forloop.first %}
 						<thead>
 						<tr>
@@ -38,7 +38,7 @@ tags:   [reports]
             </div>
             <div class="tab-pane" id="tab-table2">
                 <table id="myTable2" class="table table-striped table-bordered" width="100%" cellspacing="0">
-					{% for row in site.data.reports.[page.title].finals.overview %}
+					{% for row in site.data.reports.[page.title].finals.ozmadamage %}
 						{% if forloop.first %}
 						<thead>
 						<tr>
