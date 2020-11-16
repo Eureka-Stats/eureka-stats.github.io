@@ -61,18 +61,15 @@ tags:   [reports]
         $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
     } );
      
-    $('#myTable1').DataTable( {
+    $('table.table').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
-        paging:         false
+        paging:         false,
+        "searching": false,
+        responsive: true,
+        "info" : false,
+        "bSort" : false
     } );
-    
-    $('#myTable2').DataTable( {
-        scrollY: 200,
-        scrollCollapse: true,
-        paging:         false
-    } );
- 
     // Apply a search to the second table for the demo
     //$('#myTable2').DataTable().search( 'New York' ).draw();
 </script>
