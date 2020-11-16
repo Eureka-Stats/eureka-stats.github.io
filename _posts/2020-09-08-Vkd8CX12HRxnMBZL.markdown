@@ -64,7 +64,7 @@ $(document).ready(function() {
         $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
     } );
     // Apply a search to the second table for the demo
-    //$('#myTable2').DataTable().search( 'New York' ).draw();
+    $('#myTable2').DataTable().search( '' ).draw();
 } );
 </script>
 
