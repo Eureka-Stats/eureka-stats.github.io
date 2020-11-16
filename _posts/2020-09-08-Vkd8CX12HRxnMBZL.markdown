@@ -59,14 +59,6 @@ tags:   [reports]
 <script>
 $(document).ready(function() {
      
-    $('#myTable1').DataTable( {
-        scrollY: 200,
-        scrollCollapse: true,
-        paging:         false,
-        "searching": false,
-        "info" : false,
-        "bSort" : false
-    } );
 
     $('a[data-toggle="tab"]').on( 'shown.bs.tab', function (e) {
         $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
@@ -76,7 +68,17 @@ $(document).ready(function() {
 } );
 </script>
 
+<script>
 
+    $('table.table').DataTable( {
+        scrollY: 200,
+        scrollCollapse: true,
+        paging:         false,
+        "searching": false,
+        "info" : false,
+        "bSort" : false
+    } );
+</script>
 # Overview
 <table id="reportoverview" class="display" width="100%" cellspacing="0">
   {% for row in site.data.reports.[page.title].finals.overview %}
