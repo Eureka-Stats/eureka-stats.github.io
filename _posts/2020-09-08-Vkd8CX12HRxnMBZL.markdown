@@ -20,7 +20,7 @@ tags:   [reports]
         <div class="tab-content">
             <div class="tab-pane active" id="tab-table1">
                 <table id="myTable1" class="table" width="100%" cellspacing="0">
-					{% for row in site.data.reports.[page.title].finals.avdamage %}
+					{% for row in site.data.reports.[page.title].finals.avhealing %}
 						{% if forloop.first %}
 						<thead>
 						<tr>
@@ -38,7 +38,7 @@ tags:   [reports]
             </div>
             <div class="tab-pane" id="tab-table2">
                 <table id="myTable2" class="table" width="100%" cellspacing="0">
-					{% for row in site.data.reports.[page.title].finals.avhealing %}
+					{% for row in site.data.reports.[page.title].finals.avdamage %}
 						{% if forloop.first %}
 						<thead>
 						<tr>
