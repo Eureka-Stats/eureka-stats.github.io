@@ -68,26 +68,12 @@ $(document).ready(function() {
         paging:         false,
         "columnDefs": [
             {
-                "targets": [ 3,4,5,6,7 ],
-                "visible": false,
-                "searchable": false
-            },
-            {
                 "targets": [ 0 ],
                 "searchable": true,
                 "data": "Job",
                 "render": function ( data, type, full, meta ) {
                         return '<img src="/images/jobs/'+data+'.png" alt=" " title=""> '+data+'';
                }
-            },
-            {
-                "targets": [ 1 ],
-                "searchable": true,
-                "data": "Name",
-                defaultContent: '+data+',
-                "render": function ( data, type, full, meta ) {
-                        return '<img src="/images/people/'+data+'.png" width="32" height="32" alt=" " style="border-radius: 50%"> '+data+'';
-                }
             }
         ]
     } );
