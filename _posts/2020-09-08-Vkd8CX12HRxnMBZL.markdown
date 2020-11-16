@@ -65,17 +65,7 @@ $(document).ready(function() {
     $('table.table').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
-        paging:         false,
-        "columnDefs": [
-            {
-                "targets": [ 0 ],
-                "searchable": true,
-                "data": "Job",
-                "render": function ( data, type, full, meta ) {
-                        return '<img src="/images/jobs/'+data+'.png" alt=" " title=""> '+data+'';
-               }
-            }
-        ]
+        paging:         false
     } );
  
     // Apply a search to the second table for the demo
