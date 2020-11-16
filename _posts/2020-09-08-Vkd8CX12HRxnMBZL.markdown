@@ -59,7 +59,7 @@ tags:   [reports]
 <script>
 $(document).ready(function() {
      
-    $('myTable1').DataTable( {
+    $('#myTable1').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
         paging:         false,
