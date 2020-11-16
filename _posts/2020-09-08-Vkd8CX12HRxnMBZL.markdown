@@ -58,9 +58,6 @@ tags:   [reports]
     </div>
 <script>
 $(document).ready(function() {
-    $('a[data-toggle="tab"]').on( 'shown.bs.tab', function (e) {
-        $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
-    } );
      
     $('table.table').DataTable( {
         scrollY: 200,
@@ -71,6 +68,9 @@ $(document).ready(function() {
         "bSort" : false
     } );
 
+    $('a[data-toggle="tab"]').on( 'shown.bs.tab', function (e) {
+        $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
+    } );
     // Apply a search to the second table for the demo
     //$('#myTable2').DataTable().search( 'New York' ).draw();
 } );
