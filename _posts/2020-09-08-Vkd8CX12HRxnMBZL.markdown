@@ -38,7 +38,7 @@ tags:   [reports]
             </div>
             <div class="tab-pane" id="tab-table2">
                 <table id="myTable2" class="table table-striped table-bordered" width="100%" cellspacing="0">
-					{% for row in site.data.reports.[page.title].finals.ozmadamage %}
+					{% for row in site.data.reports.[page.title].finals.avhealing %}
 						{% if forloop.first %}
 						<thead>
 						<tr>
