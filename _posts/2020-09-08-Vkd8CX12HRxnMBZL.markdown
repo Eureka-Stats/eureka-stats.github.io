@@ -11,7 +11,7 @@ tags:   [reports]
 <div>
         <ul class="nav nav-tabs" role="tablist">
             <li class="active">
-                <a href="#tab-table1" data-toggle="tab">DPS</a>
+                <a href="#tab-table1" data-toggle="tab"><img src="/images/jobs/Samurai.png" alt=" " title="" data-action="zoom"></a>
             </li>
             <li>
                 <a href="#tab-table2" data-toggle="tab">HPS</a>
