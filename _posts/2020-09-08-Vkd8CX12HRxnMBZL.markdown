@@ -9,7 +9,7 @@ tags:   [reports]
 ---
 #### Tab Test
 <div>
-        <ul class="nav nav-tabs" role="tablist">
+        <ul class="nav nav-tabs" role="tablist" style="border-bottom: none;">
             <li class="active">
                 <a href="#tab-table1" data-toggle="tab"><img src="/images/jobs/Samurai.png" alt=" " title="" data-action="zoom"></a>
             </li>
@@ -66,10 +66,10 @@ tags:   [reports]
         scrollCollapse: true,
         paging:         false,
         "searching": false,
-        responsive: true,
         "info" : false,
         "bSort" : false
     } );
+
     // Apply a search to the second table for the demo
     //$('#myTable2').DataTable().search( 'New York' ).draw();
 </script>
