@@ -61,7 +61,7 @@ $(document).ready(function() {
     $('table.table').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
-        paging:         false,
+        paging: true,
         "searching": false,
         "info" : false,
         "bSort" : false
