@@ -62,7 +62,13 @@ $(document).ready(function() {
         $.fn.dataTable.tables( {visible: true, api: true} ).columns.adjust();
     } );
      
-    $('table.table').DataTable( {
+    $('#myTable1').DataTable( {
+        scrollY: 200,
+        scrollCollapse: true,
+        paging:         false
+    } );
+    
+    $('#myTable2').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
         paging:         false
