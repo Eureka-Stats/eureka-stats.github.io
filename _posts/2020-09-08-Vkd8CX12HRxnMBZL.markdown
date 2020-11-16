@@ -70,7 +70,15 @@ $(document).ready(function() {
 
 <script>
 
-    $('table.table').DataTable( {
+    $('#myTable1').DataTable( {
+        scrollY: 200,
+        scrollCollapse: true,
+        paging:         false,
+        "searching": false,
+        "info" : false,
+        "bSort" : false
+    } );
+    $('#myTable2').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
         paging:         false,
