@@ -63,12 +63,12 @@ $(document).ready(function() {
     } );
      
     $('table.table').DataTable( {
-        scrollY:        200,
+        scrollY: 200,
         scrollCollapse: true,
         paging:         false,
         "columnDefs": [
             {
-                "targets": [ 3,4,5,6 ],
+                "targets": [ 3,4,5,6,7 ],
                 "visible": false,
                 "searchable": false
             },
@@ -79,12 +79,6 @@ $(document).ready(function() {
                 "render": function ( data, type, full, meta ) {
                         return '<img src="/images/jobs/'+data+'.png" alt=" " title=""> '+data+'';
                }
-            },
-            {
-                "targets": [ 2 ],
-                "searchable": true,
-                data: 'DPS',
-                render: $.fn.dataTable.render.number( ',', '.', 0, '' )
             },
             {
                 "targets": [ 1 ],
