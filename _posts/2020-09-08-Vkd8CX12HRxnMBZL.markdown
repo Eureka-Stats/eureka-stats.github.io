@@ -65,7 +65,37 @@ $(document).ready(function() {
     $('table.table').DataTable( {
         scrollY:        200,
         scrollCollapse: true,
-        paging:         false
+        paging:         false,
+        "columnDefs": [
+            {
+                "targets": [ 3,4,5,6 ],
+                "visible": false,
+                "searchable": false
+            },
+            {
+                "targets": [ 0 ],
+                "searchable": true,
+                "data": "Job",
+                "render": function ( data, type, full, meta ) {
+                        return '<img src="/images/jobs/'+data+'.png" alt=" " title=""> '+data+'';
+               }
+            },
+            {
+                "targets": [ 2 ],
+                "searchable": true,
+                data: 'DPS',
+                render: $.fn.dataTable.render.number( ',', '.', 0, '' )
+            },
+            {
+                "targets": [ 1 ],
+                "searchable": true,
+                "data": "Name",
+                defaultContent: '+data+',
+                "render": function ( data, type, full, meta ) {
+                        return '<img src="/images/people/'+data+'.png" width="32" height="32" alt=" " style="border-radius: 50%"> '+data+'';
+                }
+            }
+        ]
     } );
  
     // Apply a search to the second table for the demo
