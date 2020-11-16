@@ -18,17 +18,6 @@ tags:   [reports]
       {% endfor %}
     </tr>
     </thead>
-    <tfoot>
-        <tr>
-            <th colspan="3" style="text-align:right">Total:</th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-    </tfoot>
     {% endif %}
     {% tablerow pair in row %}
       {{ pair[1] }}
@@ -37,14 +26,20 @@ tags:   [reports]
 </table>
 
 <script>
-var table = $('#reportoverview').DataTable();
-var column = table.column( 0 );
- 
-$( column.footer() ).html(
-    column.data().reduce( function (a,b) {
-        return a+b;
-    } )
-);
+$('#reportoverview').DataTable({
+        paging: false,
+        scrollY: 400,
+        "searching": false,
+        responsive: true,
+        "info" : false,
+        "columnDefs": [
+            {
+                "targets": [ 3,4,5 ],
+                "visible": false,
+                "searchable": false
+            }
+	]
+})
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
