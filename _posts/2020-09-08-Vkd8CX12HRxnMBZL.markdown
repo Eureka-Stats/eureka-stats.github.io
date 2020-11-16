@@ -31,6 +31,7 @@ $('#reportoverview').DataTable({
         "searching": false,
         responsive: true,
         "info" : false,
+	"bSort" : false,
         "columnDefs": [
             {
                 "targets": [ 3,4,5 ],
