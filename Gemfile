@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
-gem "bundler"
-gem "jekyll"
-gem "jekyll-paginate"
-gem 'jekyll-tagging'
-gem "jekyll-sitemap"
+
+gem 'jekyll', '3.8.5'
+
+group :jekyll_plugins do
+  gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
+end
