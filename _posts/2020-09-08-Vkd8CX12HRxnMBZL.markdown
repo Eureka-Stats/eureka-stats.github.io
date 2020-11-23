@@ -124,12 +124,10 @@ $('#reportoverview').DataTable({
     </tr>
     </thead>
     {% endif %}
-    <tbody class="list">
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-</tbody>
 </table>
 </div>
 </div>
