@@ -111,10 +111,10 @@ $('#reportoverview').DataTable({
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
-<table id="avdps" class="scrollbar-deep-purple bordered-deep-purple thin">
+<table id="avdps" class="table align-items-center table-dark">
   {% for row in site.data.reports.[page.title].finals.avdamage %}
     {% if forloop.first %}
-    <thead>
+    <thead class="thead-dark">
     <tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
