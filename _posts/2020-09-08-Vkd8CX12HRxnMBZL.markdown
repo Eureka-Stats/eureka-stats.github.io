@@ -112,6 +112,7 @@ $('#reportoverview').DataTable({
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
 <div class="table-responsive">
+<div>
 <table id="avdps" class="table align-items-center table-dark">
   {% for row in site.data.reports.[page.title].finals.avdamage %}
     {% if forloop.first %}
@@ -131,7 +132,7 @@ $('#reportoverview').DataTable({
 </tbody>
 </table>
 </div>
-
+</div>
 <script>
 $('#avdps').DataTable({
         paging: false,
