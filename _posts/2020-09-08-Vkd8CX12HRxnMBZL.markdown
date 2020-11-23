@@ -111,6 +111,7 @@ $('#reportoverview').DataTable({
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
+<div class="table-responsive">
 <table id="avdps" class="table align-items-center table-dark">
   {% for row in site.data.reports.[page.title].finals.avdamage %}
     {% if forloop.first %}
@@ -122,11 +123,14 @@ $('#reportoverview').DataTable({
     </tr>
     </thead>
     {% endif %}
+    <tbody class="list">
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
+</tbody>
 </table>
+</div>
 
 <script>
 $('#avdps').DataTable({
