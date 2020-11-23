@@ -57,6 +57,7 @@ tags:   [reports]
         </div>
     </div>
 <script>
+$(document).ready(function() {
     $('table.table').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
@@ -71,6 +72,7 @@ tags:   [reports]
     } );
     // Apply a search to the second table for the demo
     $('#myTable2').DataTable().search( '' ).draw();
+} );
 </script>
 
 # Overview
