@@ -39,14 +39,14 @@ var $tagsinput = $('.tagsinput');
 
     $('.wrapper .login-page, .register-page, .card').perfectScrollbar();
 
-
+/*
     if ($('.tab-content .table-responsive').length != 0) {
 
       $('.table-responsive').each(function() {
         var ps2 = new PerfectScrollbar($(this)[0]);
       });
     }
-
+*/
     $html.addClass('perfect-scrollbar-on');
   } else {
     $html.addClass('perfect-scrollbar-off');
