@@ -2,7 +2,7 @@
 layout: post 
 title:  Vkd8CX12HRxnMBZL
 date:   2020-09-08 15:01:35 +0300
-image: '/images/hydatosbg.png'
+image: '/assets/images/hydatosbg.png'
 categories: reports
 dataTable: true
 tags:   [reports]
@@ -135,7 +135,7 @@ $('#avdps').DataTable({
         "info" : false,
         "columnDefs": [
 	    {
-                "targets": [ 3,4,5,6 ],
+                "targets": [ 3,4,5,6,7 ],
                 "visible": false,
                 "searchable": false
             },
