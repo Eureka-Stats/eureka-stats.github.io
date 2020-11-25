@@ -194,6 +194,8 @@ $('#avdps').DataTable({
 </table>
 
 <script>
+jQuery.noConflict()(function ($) {
+$(document).ready(function() {
 $('#ozmadps').DataTable({
         paging: false,
         "order": [[ 3, "desc" ]],
@@ -232,4 +234,6 @@ $('#ozmadps').DataTable({
             }
         ]
 })
+});
+});
 </script>
