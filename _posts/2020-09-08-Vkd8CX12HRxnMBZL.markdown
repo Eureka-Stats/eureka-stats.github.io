@@ -57,7 +57,6 @@ tags:   [reports]
         </div>
     </div>
 <script>
-$(document).ready(function() {
     $('table.table').DataTable( {
         scrollY: 200,
         scrollCollapse: true,
@@ -72,7 +71,6 @@ $(document).ready(function() {
     } );
     // Apply a search to the second table for the demo
     $('#myTable2').DataTable().search( '' ).draw();
-} );
 </script>
 
 # Overview
@@ -111,8 +109,6 @@ $('#reportoverview').DataTable({
 </script>
 
 ## AV Damage <img src="/images/av.png" height="32" alt=" ">
-<div class="table-responsive">
-<div>
 <table id="avdps" class="table align-items-center table-dark">
   {% for row in site.data.reports.[page.title].finals.avdamage %}
     {% if forloop.first %}
@@ -129,8 +125,6 @@ $('#reportoverview').DataTable({
     {% endtablerow %}
   {% endfor %}
 </table>
-</div>
-</div>
 <script>
 $('#avdps').DataTable({
         paging: false,
