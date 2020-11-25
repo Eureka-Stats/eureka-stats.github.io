@@ -127,6 +127,10 @@ $('#reportoverview').DataTable({
 </table>
 <script>
 $(document).ready(function() {
+    var table = $('#avdps').DataTable({
+        searchPanes: true
+    });
+table.searchPanes.container().prependTo(table.table().container());
 $('#avdps').DataTable({
         paging: false,
         "order": [[ 3, "desc" ]],
