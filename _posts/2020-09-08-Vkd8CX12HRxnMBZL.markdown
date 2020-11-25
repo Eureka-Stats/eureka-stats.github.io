@@ -126,6 +126,7 @@ $('#reportoverview').DataTable({
   {% endfor %}
 </table>
 <script>
+$(document).ready(function() {
 $('#avdps').DataTable({
         paging: false,
         "order": [[ 3, "desc" ]],
@@ -168,6 +169,7 @@ $('#avdps').DataTable({
             }
         ]
 })
+});
 </script>
 
 # Ozma Damage
