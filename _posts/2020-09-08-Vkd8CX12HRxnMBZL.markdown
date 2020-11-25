@@ -167,13 +167,13 @@ $('#avdps').DataTable({
 </script>
 
 # Ozma Damage
-<table id="ozmadps" class="scrollbar-deep-purple bordered-deep-purple thin">
+<table id="ozmadps" class="table align-items-center table-dark">
   {% for row in site.data.reports.[page.title].finals.ozmadamage %}
     {% if forloop.first %}
-    <thead>
+    <thead class="thead-dark">
     <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th scope="col" class="sort">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     </thead>
@@ -183,7 +183,6 @@ $('#avdps').DataTable({
     {% endtablerow %}
   {% endfor %}
 </table>
-
 
 <script>
 $('#ozmadps').DataTable({
