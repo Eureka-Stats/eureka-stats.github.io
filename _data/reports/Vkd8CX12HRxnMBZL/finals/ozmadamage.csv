@@ -1,20 +1,40 @@
-Job,Name,DPS,Total,Kill Time,Killed,Report
-Astrologian,Emma Neotoma,2812.83,1022107,363,Yes,Vkd8CX12HRxnMBZL
-Scholar,Polar Frozenclaws,1137.14,413206,363,Yes,Vkd8CX12HRxnMBZL
-White Mage,Woo Wee,929.67,337817,363,Yes,Vkd8CX12HRxnMBZL
-Dark Knight,Altani Starshaper,1525.43,554299,363,Yes,Vkd8CX12HRxnMBZL
-Warrior,Rykon Strife,865.246,314407,363,Yes,Vkd8CX12HRxnMBZL
-Paladin,Aiso J'fule,1275.02,463308,363,Yes,Vkd8CX12HRxnMBZL
-Gunbreaker,Ba Dad,1460.33,530646,363,Yes,Vkd8CX12HRxnMBZL
-Bard,Cecilia La'vanhart,1733.02,629734,363,Yes,Vkd8CX12HRxnMBZL
-Black Mage,Stinky Lizard,1680.52,610654,363,Yes,Vkd8CX12HRxnMBZL
-Blue Mage,Emet- Sulk,1638.19,595273,363,Yes,Vkd8CX12HRxnMBZL
-Dancer,Aki Black,1561.7,567479,363,Yes,Vkd8CX12HRxnMBZL
-Dragoon,Majin Buub,1524.28,553883,363,Yes,Vkd8CX12HRxnMBZL
-Machinist,Wind-Up Tokirius,1293.61,470063,363,Yes,Vkd8CX12HRxnMBZL
-Monk,Kiyomi Kirei,1279.17,464815,363,Yes,Vkd8CX12HRxnMBZL
-Ninja,V'ghanu Tia,1278.61,464614,363,Yes,Vkd8CX12HRxnMBZL
-Red Mage,Little Sword,1239.79,450505,363,Yes,Vkd8CX12HRxnMBZL
-Samurai,Arima Saeki,1183.49,430050,363,Yes,Vkd8CX12HRxnMBZL
-Summoner,Cyrex Laq'ren,1052.88,382587,363,Yes,Vkd8CX12HRxnMBZL
-Limit Break,Xeth Aru,1300.51,472571,363,Yes,Vkd8CX12HRxnMBZL
+Job,Name,DPS,Total,Kill Time,Killed?,Report,# on run
+Samurai,Somebody Else,4382.67,1026583,234,Yes,RpMTtqHba38dQJzm,39
+Samurai,Kiyomi Kirei,4043.96,947244,234,Yes,RpMTtqHba38dQJzm,39
+Samurai,Shadow Qwert,3221.35,754560,234,Yes,RpMTtqHba38dQJzm,39
+Monk,Bakuretsu Onna,3106.21,727590,234,Yes,RpMTtqHba38dQJzm,39
+Warrior,Octavia Hardwoode,2522.37,590832,234,Yes,RpMTtqHba38dQJzm,39
+Warrior,Aggamarr Atroc,2429.44,569064,234,Yes,RpMTtqHba38dQJzm,39
+Red Mage,Dionisio Parizzi,2375.6,556453,234,Yes,RpMTtqHba38dQJzm,39
+Monk,Neela Mitz'paw,2375.39,556405,234,Yes,RpMTtqHba38dQJzm,39
+Machinist,Alura Une,2093,490258,234,Yes,RpMTtqHba38dQJzm,39
+Red Mage,L'eknif Tia,1996.89,467746,234,Yes,RpMTtqHba38dQJzm,39
+Gunbreaker,Margulis Nakata,1909.46,447266,234,Yes,RpMTtqHba38dQJzm,39
+Red Mage,Woo Wee,1738.27,407167,234,Yes,RpMTtqHba38dQJzm,39
+Bard,Fafa Leff,1732.59,405836,234,Yes,RpMTtqHba38dQJzm,39
+Red Mage,Jaiyo Bot,1649.68,386416,234,Yes,RpMTtqHba38dQJzm,39
+Machinist,Bittersweet Memories,1631.68,382199,234,Yes,RpMTtqHba38dQJzm,39
+Ninja,Miqael'a Miura,1553.26,363831,234,Yes,RpMTtqHba38dQJzm,39
+Ninja,Palurien Meoi,1363.09,319287,234,Yes,RpMTtqHba38dQJzm,39
+Dancer,Grimcheeks Jaegerjack,1271.51,297835,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Noxia Nocturna,1243.7,291320,234,Yes,RpMTtqHba38dQJzm,39
+Gunbreaker,Margulis Nakata,1185.11,277596,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Rytlockie Moonrunner,1164.65,272803,234,Yes,RpMTtqHba38dQJzm,39
+Machinist,Mystier Starchild,1114.58,261076,234,Yes,RpMTtqHba38dQJzm,39
+Warrior,Kagu Tsuchi,1093.72,256189,234,Yes,RpMTtqHba38dQJzm,39
+Machinist,Rykon Strife,1057.15,247624,234,Yes,RpMTtqHba38dQJzm,39
+Astrologian,Dash Ehhh,1054.22,246937,234,Yes,RpMTtqHba38dQJzm,39
+Warrior,Clair Nakiri,897.279,210176,234,Yes,RpMTtqHba38dQJzm,39
+Summoner,Aaliyah Infearis,781.209,182988,234,Yes,RpMTtqHba38dQJzm,39
+Dark Knight,Freyja Veleda,780.803,182893,234,Yes,RpMTtqHba38dQJzm,39
+Paladin,Meepel Lardos,746.312,174814,234,Yes,RpMTtqHba38dQJzm,39
+Red Mage,Garung Arung,739.973,173329,234,Yes,RpMTtqHba38dQJzm,39
+Dancer,White Wulf,726.717,170224,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Bear Lol,713.944,167232,234,Yes,RpMTtqHba38dQJzm,39
+Astrologian,Cyrex Laq'ren,638.802,149631,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Annelise Sera,579.055,135636,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Stinky Lizard,252.236,59083,234,Yes,RpMTtqHba38dQJzm,39
+Scholar,Kira Longclaw,245.175,57429,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Mina Velkh,198.261,46440,234,Yes,RpMTtqHba38dQJzm,39
+Scholar,Crippling Debt,105.649,24747,234,Yes,RpMTtqHba38dQJzm,39
+White Mage,Polar Frozenclaws,24.2276,5675,234,Yes,RpMTtqHba38dQJzm,39
