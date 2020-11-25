@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Eureka Stats
-  favicon_image: /favicon.png
+  favicon_image: /favicon.ico
 
 header_settings:
   logo_image: /assets/img/brand/white.png
