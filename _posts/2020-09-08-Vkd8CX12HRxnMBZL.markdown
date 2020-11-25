@@ -126,6 +126,7 @@ $('#reportoverview').DataTable({
   {% endfor %}
 </table>
 <script>
+jQuery.noConflict()(function ($) {
 $(document).ready(function() {
 $('#avdps').DataTable({
         paging: false,
@@ -170,6 +171,7 @@ $('#avdps').DataTable({
             }
         ]
 })
+});
 });
 </script>
 
