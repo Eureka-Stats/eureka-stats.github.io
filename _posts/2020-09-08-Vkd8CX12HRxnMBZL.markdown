@@ -133,6 +133,10 @@ $('#avdps').DataTable({
         "searching": false,
         responsive: true,
         "info" : false,
+        buttons:[
+            'searchPanes'
+        ],
+        dom: 'Bfrtip',
         "columnDefs": [
 	    {
                 "targets": [ 3,4,5,6,7 ],
