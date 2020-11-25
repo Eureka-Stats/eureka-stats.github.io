@@ -202,6 +202,10 @@ $('#ozmadps').DataTable({
         scrollY: 400,
         "searching": false,
         responsive: true,
+        buttons:[
+            'searchPanes'
+        ],
+        dom: 'Bfrtip',
         "info" : false,
         "columnDefs": [
             {
