@@ -14,7 +14,7 @@ tags:   [reports]
     <thead class="thead-dark">
     <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th scope="col" class="sort">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
     </thead>
