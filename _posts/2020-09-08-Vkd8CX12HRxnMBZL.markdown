@@ -8,7 +8,7 @@ dataTable: true
 tags:   [reports]
 ---
 # Overview
-<table id="reportoverview" class="table align-items-center table-dark">
+<table id="reportoverview" class="table align-items-center table-dark" wi>
   {% for row in site.data.reports.[page.title].finals.overview %}
     {% if forloop.first %}
     <thead class="thead-dark">
@@ -28,10 +28,10 @@ tags:   [reports]
 <script>
 $('#reportoverview').DataTable({
         paging: false,
+        scrollY: 400,
         "searching": false,
         responsive: true,
         "info" : false,
-	"bSort" : false,
         "columnDefs": [
             {
                 "targets": [ 3,4,5 ],
