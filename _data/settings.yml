@@ -63,7 +63,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Made by Octavia Hardwoode
+  footer_tagline: 
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
